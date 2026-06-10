@@ -1,0 +1,11 @@
+{
+  "editions": [
+    {
+      "year": 2025,
+      "participants": 16,
+      "winner": "TBD",
+      "highlights": ["16-player bracket", "Custom overfishing ruleset", "Community voted maps"]
+    }
+  ],
+  "next": { "year": 2026, "teaser": "Details coming soon — stay tuned!" }
+}
