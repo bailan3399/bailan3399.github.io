@@ -35007,109 +35007,109 @@
     "rotationWindow": "8/30 00:00 – 8/31 16:00 UTC",
     "rulesVersion": "v2.1",
     "rulesRevised": "Aug 22, 2025",
-    "poster": "assets/cup/poster-cn.jpg",
+    "poster": "assets/cup/poster-cn.webp",
     "posters": {
       "guide": [
         {
-          "src": "assets/cup/poster-en.jpg",
+          "src": "assets/cup/poster-en.webp",
           "label": "Official poster: English"
         },
         {
-          "src": "assets/cup/poster-cn.jpg",
+          "src": "assets/cup/poster-cn.webp",
           "label": "招募海报: Chinese"
         },
         {
-          "src": "assets/cup/guide-1.jpg",
+          "src": "assets/cup/guide-1.webp",
           "label": "Rank-based prizes"
         },
         {
-          "src": "assets/cup/guide-2.jpg",
+          "src": "assets/cup/guide-2.webp",
           "label": "Special prizes I"
         },
         {
-          "src": "assets/cup/guide-3.jpg",
+          "src": "assets/cup/guide-3.webp",
           "label": "Special prizes II"
         },
         {
-          "src": "assets/cup/guide-4.jpg",
+          "src": "assets/cup/guide-4.webp",
           "label": "Participation prizes"
         },
         {
-          "src": "assets/cup/guide-5.jpg",
+          "src": "assets/cup/guide-5.webp",
           "label": "Rules: read before joining"
         },
         {
-          "src": "assets/cup/guide-6.jpg",
+          "src": "assets/cup/guide-6.webp",
           "label": "Prize claim guide"
         }
       ],
       "winners": [
         {
-          "src": "assets/cup/winners-1.jpg",
+          "src": "assets/cup/winners-1.webp",
           "label": "Rank-based prize winners"
         },
         {
-          "src": "assets/cup/winners-2.jpg",
+          "src": "assets/cup/winners-2.webp",
           "label": "Special prize winners"
         },
         {
-          "src": "assets/cup/winners-3.jpg",
+          "src": "assets/cup/winners-3.webp",
           "label": "Participation prize winners"
         }
       ],
       "results": [
         {
-          "src": "assets/cup/result-1.jpg",
+          "src": "assets/cup/result-1.webp",
           "label": "Podium: full breakdown"
         },
         {
-          "src": "assets/cup/result-2.jpg",
+          "src": "assets/cup/result-2.webp",
           "label": "Ranks 4 – 10"
         },
         {
-          "src": "assets/cup/result-3.jpg",
+          "src": "assets/cup/result-3.webp",
           "label": "Ranks 11 – 25"
         },
         {
-          "src": "assets/cup/result-4.jpg",
+          "src": "assets/cup/result-4.webp",
           "label": "Ranks 26 – 40"
         },
         {
-          "src": "assets/cup/result-5.jpg",
+          "src": "assets/cup/result-5.webp",
           "label": "Ranks 41 – 55"
         },
         {
-          "src": "assets/cup/result-6.jpg",
+          "src": "assets/cup/result-6.webp",
           "label": "Ranks 56 – 79"
         },
         {
-          "src": "assets/cup/result-7.jpg",
+          "src": "assets/cup/result-7.webp",
           "label": "Ranks 80 – 103"
         },
         {
-          "src": "assets/cup/result-8.jpg",
+          "src": "assets/cup/result-8.webp",
           "label": "Ranks 104 – 123"
         }
       ],
       "artPrizes": [
         {
-          "src": "assets/cup/art-1st.png",
+          "src": "assets/cup/art-1st.webp",
           "label": "1st place: Snooze Button · art by @eggykoo0821"
         },
         {
-          "src": "assets/cup/art-2nd.png",
+          "src": "assets/cup/art-2nd.webp",
           "label": "2nd place: 悲伤哈密瓜不 · art by @cobii_illu"
         },
         {
-          "src": "assets/cup/art-3rd.png",
+          "src": "assets/cup/art-3rd.webp",
           "label": "3rd place: Stellar Tide · art by @正经菜市场"
         },
         {
-          "src": "assets/cup/art-fishstick.png",
+          "src": "assets/cup/art-fishstick.webp",
           "label": "Most Fish Stick: profile-pic set · art by @LittleGold"
         },
         {
-          "src": "assets/cup/art-lucky.png",
+          "src": "assets/cup/art-lucky.webp",
           "label": "Bailan Lucky: 打到山千红蛋就算了 · art by @Bailan"
         }
       ]
@@ -35172,7 +35172,7 @@
         "score": 2382,
         "eggs": 2214,
         "scales": 168,
-        "art": "assets/cup/art-1st.png",
+        "art": "assets/cup/art-1st.webp",
         "artist": "@eggykoo0821",
         "sponsor": "@Bailan",
         "members": [
@@ -35189,7 +35189,7 @@
         "score": 2379,
         "eggs": 2238,
         "scales": 141,
-        "art": "assets/cup/art-2nd.png",
+        "art": "assets/cup/art-2nd.webp",
         "artist": "@cobii_illu",
         "sponsor": "@Bailan",
         "members": [
@@ -35206,7 +35206,7 @@
         "score": 2372,
         "eggs": 2201,
         "scales": 171,
-        "art": "assets/cup/art-3rd.png",
+        "art": "assets/cup/art-3rd.webp",
         "artist": "@正经菜市场",
         "sponsor": "@Bailan",
         "members": [
@@ -35471,7 +35471,7 @@
         "winner": "队长说名字越长就越厉害所以我们就叫这个队",
         "winnerSession": "A",
         "stat": "Fish Stick ×75 · Drizzler ×80",
-        "art": "assets/cup/art-fishstick.png",
+        "art": "assets/cup/art-fishstick.webp",
         "artIdx": 3,
         "ratio": "1 / 1"
       },
@@ -35484,7 +35484,7 @@
         "winner": "打到山千红蛋就算了",
         "winnerSession": "B",
         "stat": "Drawn from rank 103",
-        "art": "assets/cup/art-lucky.png",
+        "art": "assets/cup/art-lucky.webp",
         "artIdx": 4,
         "ratio": "16 / 9"
       }
