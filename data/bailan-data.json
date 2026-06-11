@@ -17,8 +17,8 @@
   },
   "stats": {
     "perShift": {
-      "cleared": 7916,
-      "total": 8476,
+      "cleared": 7989,
+      "total": 8554,
       "tiles": [
         {
           "label": "Golden Egg Delivered",
@@ -32,7 +32,7 @@
         },
         {
           "label": "Power Eggs",
-          "value": 1112.1,
+          "value": 1111.5,
           "tone": "lime"
         },
         {
@@ -4098,8 +4098,8 @@
         {
           "name": "Sockeye Station",
           "code": "SSt",
-          "shifts": 1282,
-          "dayOnly": 553
+          "shifts": 1309,
+          "dayOnly": 567
         },
         {
           "name": "Jammin' Salmon Junction",
@@ -4120,16 +4120,16 @@
           "dayOnly": 497
         },
         {
+          "name": "Marooner's Bay",
+          "code": "MB",
+          "shifts": 1032,
+          "dayOnly": 431
+        },
+        {
           "name": "Spawning Grounds",
           "code": "SG",
           "shifts": 1030,
           "dayOnly": 470
-        },
-        {
-          "name": "Marooner's Bay",
-          "code": "MB",
-          "shifts": 981,
-          "dayOnly": 410
         }
       ],
       "thresholds": [
@@ -4147,48 +4147,48 @@
       "counts": [
         [
           1094,
-          717,
+          743,
           965,
           706,
           719,
-          489,
-          356
+          383,
+          489
         ],
         [
           866,
-          519,
+          539,
           774,
           500,
           516,
-          331,
-          213
+          229,
+          331
         ],
         [
           594,
-          317,
+          329,
           544,
           318,
           315,
-          204,
-          111
+          118,
+          204
         ],
         [
           351,
-          169,
+          178,
           310,
           163,
           162,
-          105,
-          35
+          39,
+          105
         ],
         [
           169,
-          73,
+          77,
           164,
           71,
           54,
-          43,
-          11
+          13,
+          43
         ],
         [
           91,
@@ -4196,8 +4196,8 @@
           64,
           32,
           23,
-          12,
-          2
+          2,
+          12
         ],
         [
           26,
@@ -4205,8 +4205,8 @@
           26,
           10,
           4,
-          3,
-          1
+          1,
+          3
         ],
         [
           5,
@@ -4239,48 +4239,48 @@
       "countsDay": [
         [
           441,
-          277,
+          291,
           354,
           239,
           318,
-          199,
-          97
+          107,
+          199
         ],
         [
           338,
-          192,
+          201,
           275,
           150,
           230,
-          138,
-          51
+          56,
+          138
         ],
         [
           213,
-          100,
+          105,
           169,
           85,
           142,
-          88,
-          23
+          24,
+          88
         ],
         [
           121,
-          43,
+          46,
           86,
           29,
           60,
-          48,
-          5
+          5,
+          48
         ],
         [
           56,
-          9,
+          11,
           45,
           8,
           17,
-          18,
-          0
+          0,
+          18
         ],
         [
           25,
@@ -4288,8 +4288,8 @@
           11,
           4,
           4,
-          4,
-          0
+          0,
+          4
         ],
         [
           10,
@@ -5777,7 +5777,7 @@
             },
             {
               "playedAt": "2026-03-19T15:16:14.000Z",
-              "screenshot": "/screenshots/manual/SSy-day-2026-03-19.png",
+              "screenshot": "/screenshots/shiftdetail/SSy-day-2026-03-19.webp",
               "note": {
                 "text": "I forgot to take NSO screenshot of this shift, but here's a link to the video proof (timestamp included):",
                 "url": "https://www.youtube.com/live/DL8DDqbJgFg?si=nI_wGcHWkTCE9spU&t=4575"
@@ -5937,12 +5937,12 @@
             226,
             225,
             225,
+            224,
             223,
             222,
             222,
-            219,
-            219,
-            217
+            220,
+            219
           ],
           "shifts": [
             {
@@ -6066,6 +6066,36 @@
               ]
             },
             {
+              "playedAt": "2026-06-11T04:32:56.000Z",
+              "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDMyNTZfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp",
+              "note": null,
+              "waves": [
+                {
+                  "wl": 2,
+                  "ev": "-"
+                },
+                {
+                  "wl": 1,
+                  "ev": "-"
+                },
+                {
+                  "wl": 2,
+                  "ev": "-"
+                }
+              ],
+              "weapons": [
+                "S-BLAST '92",
+                "Recycled Brella 24 Mk I",
+                "Dread Wringer",
+                "Tri-Stringer"
+              ],
+              "carriers": [
+                "Stic",
+                "Crimson",
+                "-25"
+              ]
+            },
+            {
               "playedAt": "2026-03-29T04:50:00.000Z",
               "screenshot": "/screenshots/imported/imported-a9936853-c944-4874-96dc-f81ab385b091.webp",
               "note": null,
@@ -6156,6 +6186,36 @@
               ]
             },
             {
+              "playedAt": "2026-06-11T17:11:39.000Z",
+              "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQxNzExMzlfNzg1ZWFjODMtZmJlYi00MjdhLWEyMzgtZDc3MzZhYzdmNDNi.webp",
+              "note": null,
+              "waves": [
+                {
+                  "wl": 1,
+                  "ev": "-"
+                },
+                {
+                  "wl": 1,
+                  "ev": "-"
+                },
+                {
+                  "wl": 2,
+                  "ev": "-"
+                }
+              ],
+              "weapons": [
+                "S-BLAST '92",
+                "Recycled Brella 24 Mk I",
+                "Dread Wringer",
+                "Tri-Stringer"
+              ],
+              "carriers": [
+                "Stic",
+                "⌒★Darkly",
+                "eatham"
+              ]
+            },
+            {
               "playedAt": "2026-03-03T10:01:00.000Z",
               "screenshot": "/screenshots/imported/imported-24ce7a47-9b61-41f5-bf0a-45bafde3fe9c.webp",
               "note": null,
@@ -6182,66 +6242,6 @@
               "carriers": [
                 "Crimson",
                 "Stic",
-                "Pangas"
-              ]
-            },
-            {
-              "playedAt": "2026-03-29T04:29:00.000Z",
-              "screenshot": "/screenshots/imported/imported-dd7eac4f-91d3-42c1-8784-2b8c10d733af.webp",
-              "note": null,
-              "waves": [
-                {
-                  "wl": 1,
-                  "ev": "-"
-                },
-                {
-                  "wl": 0,
-                  "ev": "-"
-                },
-                {
-                  "wl": 2,
-                  "ev": "-"
-                }
-              ],
-              "weapons": [
-                "mini splatling",
-                "dread wringer",
-                ".52 gal",
-                "splat charger"
-              ],
-              "carriers": [
-                "Seat",
-                "Leanna/Chazy",
-                "⌒★Darkly"
-              ]
-            },
-            {
-              "playedAt": "2026-04-24T16:13:31.000Z",
-              "screenshot": "/screenshots/nsa/nsa-2465b619-6939-418b-8000-e7672c4a3896.webp",
-              "note": null,
-              "waves": [
-                {
-                  "wl": 1,
-                  "ev": "-"
-                },
-                {
-                  "wl": 0,
-                  "ev": "-"
-                },
-                {
-                  "wl": 1,
-                  "ev": "-"
-                }
-              ],
-              "weapons": [
-                "Mint Decavitator",
-                "Blaster",
-                "Splattershot Pro",
-                "Snipewriter 5H"
-              ],
-              "carriers": [
-                "Ako",
-                "Crimson",
                 "Pangas"
               ]
             }
@@ -6570,12 +6570,12 @@
         1631,
         1616,
         1610,
-        1592,
-        1584,
+        1593,
+        1585,
         1575,
-        1566,
-        1564,
-        1556
+        1569,
+        1565,
+        1558
       ]
     },
     "matrixByCombo": {
@@ -8027,7 +8027,7 @@
               },
               {
                 "playedAt": "2026-03-19T15:16:14.000Z",
-                "screenshot": "/screenshots/manual/SSy-day-2026-03-19.png",
+                "screenshot": "/screenshots/shiftdetail/SSy-day-2026-03-19.webp",
                 "note": {
                   "text": "I forgot to take NSO screenshot of this shift, but here's a link to the video proof (timestamp included):",
                   "url": "https://www.youtube.com/live/DL8DDqbJgFg?si=nI_wGcHWkTCE9spU&t=4575"
@@ -8187,12 +8187,12 @@
               226,
               225,
               225,
+              224,
               223,
               222,
               222,
-              219,
-              219,
-              217
+              220,
+              219
             ],
             "shifts": [
               {
@@ -8316,6 +8316,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-11T04:32:56.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDMyNTZfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Crimson",
+                  "-25"
+                ]
+              },
+              {
                 "playedAt": "2026-03-29T04:50:00.000Z",
                 "screenshot": "/screenshots/imported/imported-a9936853-c944-4874-96dc-f81ab385b091.webp",
                 "note": null,
@@ -8406,6 +8436,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-11T17:11:39.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQxNzExMzlfNzg1ZWFjODMtZmJlYi00MjdhLWEyMzgtZDc3MzZhYzdmNDNi.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Stic",
+                  "⌒★Darkly",
+                  "eatham"
+                ]
+              },
+              {
                 "playedAt": "2026-03-03T10:01:00.000Z",
                 "screenshot": "/screenshots/imported/imported-24ce7a47-9b61-41f5-bf0a-45bafde3fe9c.webp",
                 "note": null,
@@ -8432,66 +8492,6 @@
                 "carriers": [
                   "Crimson",
                   "Stic",
-                  "Pangas"
-                ]
-              },
-              {
-                "playedAt": "2026-03-29T04:29:00.000Z",
-                "screenshot": "/screenshots/imported/imported-dd7eac4f-91d3-42c1-8784-2b8c10d733af.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "mini splatling",
-                  "dread wringer",
-                  ".52 gal",
-                  "splat charger"
-                ],
-                "carriers": [
-                  "Seat",
-                  "Leanna/Chazy",
-                  "⌒★Darkly"
-                ]
-              },
-              {
-                "playedAt": "2026-04-24T16:13:31.000Z",
-                "screenshot": "/screenshots/nsa/nsa-2465b619-6939-418b-8000-e7672c4a3896.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "Mint Decavitator",
-                  "Blaster",
-                  "Splattershot Pro",
-                  "Snipewriter 5H"
-                ],
-                "carriers": [
-                  "Ako",
-                  "Crimson",
                   "Pangas"
                 ]
               }
@@ -8820,12 +8820,12 @@
           1631,
           1616,
           1610,
-          1592,
-          1584,
+          1593,
+          1585,
           1575,
-          1566,
-          1564,
-          1556
+          1569,
+          1565,
+          1558
         ]
       },
       "nonGoldDay": {
@@ -10306,7 +10306,7 @@
               },
               {
                 "playedAt": "2026-03-19T15:16:14.000Z",
-                "screenshot": "/screenshots/manual/SSy-day-2026-03-19.png",
+                "screenshot": "/screenshots/shiftdetail/SSy-day-2026-03-19.webp",
                 "note": {
                   "text": "I forgot to take NSO screenshot of this shift, but here's a link to the video proof (timestamp included):",
                   "url": "https://www.youtube.com/live/DL8DDqbJgFg?si=nI_wGcHWkTCE9spU&t=4575"
@@ -10436,12 +10436,12 @@
               226,
               225,
               225,
+              224,
               223,
               222,
               222,
-              219,
-              219,
-              217
+              220,
+              219
             ],
             "shifts": [
               {
@@ -10565,6 +10565,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-11T04:32:56.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDMyNTZfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Crimson",
+                  "-25"
+                ]
+              },
+              {
                 "playedAt": "2026-03-29T04:50:00.000Z",
                 "screenshot": "/screenshots/imported/imported-a9936853-c944-4874-96dc-f81ab385b091.webp",
                 "note": null,
@@ -10655,6 +10685,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-11T17:11:39.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQxNzExMzlfNzg1ZWFjODMtZmJlYi00MjdhLWEyMzgtZDc3MzZhYzdmNDNi.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Stic",
+                  "⌒★Darkly",
+                  "eatham"
+                ]
+              },
+              {
                 "playedAt": "2026-03-03T10:01:00.000Z",
                 "screenshot": "/screenshots/imported/imported-24ce7a47-9b61-41f5-bf0a-45bafde3fe9c.webp",
                 "note": null,
@@ -10681,66 +10741,6 @@
                 "carriers": [
                   "Crimson",
                   "Stic",
-                  "Pangas"
-                ]
-              },
-              {
-                "playedAt": "2026-03-29T04:29:00.000Z",
-                "screenshot": "/screenshots/imported/imported-dd7eac4f-91d3-42c1-8784-2b8c10d733af.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "mini splatling",
-                  "dread wringer",
-                  ".52 gal",
-                  "splat charger"
-                ],
-                "carriers": [
-                  "Seat",
-                  "Leanna/Chazy",
-                  "⌒★Darkly"
-                ]
-              },
-              {
-                "playedAt": "2026-04-24T16:13:31.000Z",
-                "screenshot": "/screenshots/nsa/nsa-2465b619-6939-418b-8000-e7672c4a3896.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "Mint Decavitator",
-                  "Blaster",
-                  "Splattershot Pro",
-                  "Snipewriter 5H"
-                ],
-                "carriers": [
-                  "Ako",
-                  "Crimson",
                   "Pangas"
                 ]
               }
@@ -11069,12 +11069,12 @@
           1635,
           1621,
           1613,
-          1598,
-          1588,
+          1599,
+          1589,
           1580,
-          1573,
-          1566,
-          1561
+          1576,
+          1567,
+          1563
         ]
       },
       "allDay": {
@@ -12585,7 +12585,7 @@
               },
               {
                 "playedAt": "2026-03-19T15:16:14.000Z",
-                "screenshot": "/screenshots/manual/SSy-day-2026-03-19.png",
+                "screenshot": "/screenshots/shiftdetail/SSy-day-2026-03-19.webp",
                 "note": {
                   "text": "I forgot to take NSO screenshot of this shift, but here's a link to the video proof (timestamp included):",
                   "url": "https://www.youtube.com/live/DL8DDqbJgFg?si=nI_wGcHWkTCE9spU&t=4575"
@@ -12685,12 +12685,12 @@
               226,
               225,
               225,
+              224,
               223,
               222,
               222,
               221,
-              221,
-              219
+              221
             ],
             "shifts": [
               {
@@ -12811,6 +12811,36 @@
                   "Aki",
                   "Crimson",
                   "Stic"
+                ]
+              },
+              {
+                "playedAt": "2026-06-11T04:32:56.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDMyNTZfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Crimson",
+                  "-25"
                 ]
               },
               {
@@ -12961,36 +12991,6 @@
                   "Aegis",
                   "Patrick",
                   "Shirø"
-                ]
-              },
-              {
-                "playedAt": "2026-03-03T10:01:00.000Z",
-                "screenshot": "/screenshots/imported/imported-24ce7a47-9b61-41f5-bf0a-45bafde3fe9c.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "reef-lux 450",
-                  "bloblobber",
-                  "sploosh-o-matic",
-                  "rapid blaster pro"
-                ],
-                "carriers": [
-                  "Crimson",
-                  "Stic",
-                  "Pangas"
                 ]
               }
             ]
@@ -13318,12 +13318,12 @@
           1645,
           1623,
           1616,
-          1601,
-          1591,
+          1602,
+          1592,
           1582,
-          1578,
+          1579,
           1570,
-          1565
+          1567
         ]
       },
       "regularNight": {
@@ -15248,12 +15248,12 @@
               233,
               228,
               227,
+              225,
+              223,
               221,
               221,
               221,
-              221,
-              220,
-              219
+              221
             ],
             "shifts": [
               {
@@ -15377,6 +15377,66 @@
                 ]
               },
               {
+                "playedAt": "2026-06-10T03:50:52.000Z",
+                "screenshot": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "Fog"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Sadface"
+                ]
+              },
+              {
+                "playedAt": "2026-06-10T03:57:48.000Z",
+                "screenshot": "/screenshots/nsa/nsa-41244965-c08f-4621-88ca-e28e1d8eda57.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "Goldie"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Sadface",
+                  "Crimson"
+                ]
+              },
+              {
                 "playedAt": "2026-03-23T17:31:29.000Z",
                 "screenshot": "/screenshots/nsa/nsa-f9949dca-853b-4e22-b5e1-e2354e4fff4f.webp",
                 "note": null,
@@ -15495,66 +15555,6 @@
                   "Patrick",
                   "Stic"
                 ]
-              },
-              {
-                "playedAt": "2026-04-08T21:27:36.000Z",
-                "screenshot": "/screenshots/nsa/nsa-69e30347-8b48-4665-a0d4-ad1543e268a8.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "Mothership"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "Splattershot",
-                  ".52 Gal",
-                  "Painbrush",
-                  ".96 Gal"
-                ],
-                "carriers": [
-                  "Dogysamich",
-                  "Stic",
-                  "mmff"
-                ]
-              },
-              {
-                "playedAt": "2025-09-07T21:14:00.000Z",
-                "screenshot": "/screenshots/imported/imported-a0f61250-be39-4519-ab3c-d5cd57c73ddd.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 0,
-                    "ev": "Tornado"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "Cannon"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "Mudmouth"
-                  }
-                ],
-                "weapons": [
-                  "dapple dualies",
-                  "reef-lux 450",
-                  "range blaster",
-                  "heavy splatling"
-                ],
-                "carriers": [
-                  "aoi",
-                  "Ajolot",
-                  "Pangas"
-                ]
               }
             ]
           }
@@ -15564,12 +15564,12 @@
           1731,
           1714,
           1693,
-          1676,
-          1662,
+          1680,
+          1664,
           1654,
           1653,
-          1640,
-          1634
+          1641,
+          1636
         ]
       },
       "nonGoldNight": {
@@ -17495,9 +17495,9 @@
               229,
               228,
               227,
+              225,
               223,
-              221,
-              221,
+              223,
               221,
               221
             ],
@@ -17653,6 +17653,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-10T03:50:52.000Z",
+                "screenshot": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "Fog"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Sadface"
+                ]
+              },
+              {
                 "playedAt": "2026-01-31T06:14:00.000Z",
                 "screenshot": "/screenshots/imported/imported-329b31dc-89a3-4022-9ddf-e3b582f57d63.webp",
                 "note": null,
@@ -17680,6 +17710,36 @@
                   "Patrick",
                   "Net",
                   "^ω^"
+                ]
+              },
+              {
+                "playedAt": "2026-06-10T03:57:48.000Z",
+                "screenshot": "/screenshots/nsa/nsa-41244965-c08f-4621-88ca-e28e1d8eda57.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "Goldie"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Sadface",
+                  "Crimson"
                 ]
               },
               {
@@ -17741,66 +17801,6 @@
                   "Aki",
                   "Slushíe"
                 ]
-              },
-              {
-                "playedAt": "2026-01-06T18:08:00.000Z",
-                "screenshot": "/screenshots/imported/imported-a42e977e-fc92-4879-80ca-1e62392e4e9d.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "Goldie"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splatana stamper",
-                  "mint decavitator",
-                  "heavy edit splatling",
-                  "tri-stringer"
-                ],
-                "carriers": [
-                  "bup",
-                  "Stic",
-                  "Crimson"
-                ]
-              },
-              {
-                "playedAt": "2026-02-05T03:56:00.000Z",
-                "screenshot": "/screenshots/imported/imported-5907feea-6f2b-47fb-844a-638828d6fd74.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "Cannon"
-                  },
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splat dualies",
-                  "splatana stamper",
-                  "tenta brella",
-                  ".96 gal"
-                ],
-                "carriers": [
-                  "-25",
-                  "Patrick",
-                  "Stic"
-                ]
               }
             ]
           }
@@ -17811,9 +17811,9 @@
           1724,
           1700,
           1690,
-          1671,
-          1662,
-          1659,
+          1673,
+          1664,
+          1661,
           1646,
           1643
         ]
@@ -19741,9 +19741,9 @@
               229,
               228,
               227,
+              225,
               223,
-              221,
-              221,
+              223,
               221,
               221
             ],
@@ -19899,6 +19899,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-10T03:50:52.000Z",
+                "screenshot": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "Fog"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Sadface"
+                ]
+              },
+              {
                 "playedAt": "2026-01-31T06:14:00.000Z",
                 "screenshot": "/screenshots/imported/imported-329b31dc-89a3-4022-9ddf-e3b582f57d63.webp",
                 "note": null,
@@ -19926,6 +19956,36 @@
                   "Patrick",
                   "Net",
                   "^ω^"
+                ]
+              },
+              {
+                "playedAt": "2026-06-10T03:57:48.000Z",
+                "screenshot": "/screenshots/nsa/nsa-41244965-c08f-4621-88ca-e28e1d8eda57.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "Goldie"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Sadface",
+                  "Crimson"
                 ]
               },
               {
@@ -19987,66 +20047,6 @@
                   "Aki",
                   "Slushíe"
                 ]
-              },
-              {
-                "playedAt": "2026-01-06T18:08:00.000Z",
-                "screenshot": "/screenshots/imported/imported-a42e977e-fc92-4879-80ca-1e62392e4e9d.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "Goldie"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splatana stamper",
-                  "mint decavitator",
-                  "heavy edit splatling",
-                  "tri-stringer"
-                ],
-                "carriers": [
-                  "bup",
-                  "Stic",
-                  "Crimson"
-                ]
-              },
-              {
-                "playedAt": "2026-02-05T03:56:00.000Z",
-                "screenshot": "/screenshots/imported/imported-5907feea-6f2b-47fb-844a-638828d6fd74.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "Cannon"
-                  },
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splat dualies",
-                  "splatana stamper",
-                  "tenta brella",
-                  ".96 gal"
-                ],
-                "carriers": [
-                  "-25",
-                  "Patrick",
-                  "Stic"
-                ]
               }
             ]
           }
@@ -20057,9 +20057,9 @@
           1734,
           1714,
           1699,
-          1689,
-          1680,
-          1674,
+          1691,
+          1682,
+          1676,
           1662,
           1660
         ]
@@ -21986,12 +21986,12 @@
               233,
               228,
               227,
+              225,
+              223,
               221,
               221,
               221,
-              221,
-              220,
-              219
+              221
             ],
             "shifts": [
               {
@@ -22115,6 +22115,66 @@
                 ]
               },
               {
+                "playedAt": "2026-06-10T03:50:52.000Z",
+                "screenshot": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "Fog"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Sadface"
+                ]
+              },
+              {
+                "playedAt": "2026-06-10T03:57:48.000Z",
+                "screenshot": "/screenshots/nsa/nsa-41244965-c08f-4621-88ca-e28e1d8eda57.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "Goldie"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Sadface",
+                  "Crimson"
+                ]
+              },
+              {
                 "playedAt": "2026-03-23T17:31:29.000Z",
                 "screenshot": "/screenshots/nsa/nsa-f9949dca-853b-4e22-b5e1-e2354e4fff4f.webp",
                 "note": null,
@@ -22233,66 +22293,6 @@
                   "Patrick",
                   "Stic"
                 ]
-              },
-              {
-                "playedAt": "2026-04-08T21:27:36.000Z",
-                "screenshot": "/screenshots/nsa/nsa-69e30347-8b48-4665-a0d4-ad1543e268a8.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "Mothership"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "Splattershot",
-                  ".52 Gal",
-                  "Painbrush",
-                  ".96 Gal"
-                ],
-                "carriers": [
-                  "Dogysamich",
-                  "Stic",
-                  "mmff"
-                ]
-              },
-              {
-                "playedAt": "2025-09-07T21:14:00.000Z",
-                "screenshot": "/screenshots/imported/imported-a0f61250-be39-4519-ab3c-d5cd57c73ddd.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 0,
-                    "ev": "Tornado"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "Cannon"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "Mudmouth"
-                  }
-                ],
-                "weapons": [
-                  "dapple dualies",
-                  "reef-lux 450",
-                  "range blaster",
-                  "heavy splatling"
-                ],
-                "carriers": [
-                  "aoi",
-                  "Ajolot",
-                  "Pangas"
-                ]
               }
             ]
           }
@@ -22302,12 +22302,12 @@
           1734,
           1715,
           1695,
-          1679,
-          1669,
+          1683,
+          1671,
           1660,
           1655,
-          1649,
-          1646
+          1650,
+          1648
         ]
       },
       "nonGoldAny": {
@@ -24233,9 +24233,9 @@
               229,
               228,
               227,
+              225,
               223,
-              221,
-              221,
+              223,
               221,
               221
             ],
@@ -24391,6 +24391,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-10T03:50:52.000Z",
+                "screenshot": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "Fog"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Sadface"
+                ]
+              },
+              {
                 "playedAt": "2026-01-31T06:14:00.000Z",
                 "screenshot": "/screenshots/imported/imported-329b31dc-89a3-4022-9ddf-e3b582f57d63.webp",
                 "note": null,
@@ -24418,6 +24448,36 @@
                   "Patrick",
                   "Net",
                   "^ω^"
+                ]
+              },
+              {
+                "playedAt": "2026-06-10T03:57:48.000Z",
+                "screenshot": "/screenshots/nsa/nsa-41244965-c08f-4621-88ca-e28e1d8eda57.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "Goldie"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Sadface",
+                  "Crimson"
                 ]
               },
               {
@@ -24479,66 +24539,6 @@
                   "Aki",
                   "Slushíe"
                 ]
-              },
-              {
-                "playedAt": "2026-01-06T18:08:00.000Z",
-                "screenshot": "/screenshots/imported/imported-a42e977e-fc92-4879-80ca-1e62392e4e9d.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "Goldie"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splatana stamper",
-                  "mint decavitator",
-                  "heavy edit splatling",
-                  "tri-stringer"
-                ],
-                "carriers": [
-                  "bup",
-                  "Stic",
-                  "Crimson"
-                ]
-              },
-              {
-                "playedAt": "2026-02-05T03:56:00.000Z",
-                "screenshot": "/screenshots/imported/imported-5907feea-6f2b-47fb-844a-638828d6fd74.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "Cannon"
-                  },
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splat dualies",
-                  "splatana stamper",
-                  "tenta brella",
-                  ".96 gal"
-                ],
-                "carriers": [
-                  "-25",
-                  "Patrick",
-                  "Stic"
-                ]
               }
             ]
           }
@@ -24549,9 +24549,9 @@
           1725,
           1702,
           1693,
-          1679,
-          1668,
-          1662,
+          1681,
+          1670,
+          1664,
           1656,
           1651
         ]
@@ -26479,9 +26479,9 @@
               229,
               228,
               227,
+              225,
               223,
-              221,
-              221,
+              223,
               221,
               221
             ],
@@ -26637,6 +26637,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-10T03:50:52.000Z",
+                "screenshot": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "Fog"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Sadface"
+                ]
+              },
+              {
                 "playedAt": "2026-01-31T06:14:00.000Z",
                 "screenshot": "/screenshots/imported/imported-329b31dc-89a3-4022-9ddf-e3b582f57d63.webp",
                 "note": null,
@@ -26664,6 +26694,36 @@
                   "Patrick",
                   "Net",
                   "^ω^"
+                ]
+              },
+              {
+                "playedAt": "2026-06-10T03:57:48.000Z",
+                "screenshot": "/screenshots/nsa/nsa-41244965-c08f-4621-88ca-e28e1d8eda57.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "Goldie"
+                  }
+                ],
+                "weapons": [
+                  "Splat Roller",
+                  "Splatana Wiper",
+                  "Splattershot",
+                  "Rapid Blaster Pro"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Sadface",
+                  "Crimson"
                 ]
               },
               {
@@ -26725,66 +26785,6 @@
                   "Aki",
                   "Slushíe"
                 ]
-              },
-              {
-                "playedAt": "2026-01-06T18:08:00.000Z",
-                "screenshot": "/screenshots/imported/imported-a42e977e-fc92-4879-80ca-1e62392e4e9d.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "Goldie"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splatana stamper",
-                  "mint decavitator",
-                  "heavy edit splatling",
-                  "tri-stringer"
-                ],
-                "carriers": [
-                  "bup",
-                  "Stic",
-                  "Crimson"
-                ]
-              },
-              {
-                "playedAt": "2026-02-05T03:56:00.000Z",
-                "screenshot": "/screenshots/imported/imported-5907feea-6f2b-47fb-844a-638828d6fd74.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "Cannon"
-                  },
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splat dualies",
-                  "splatana stamper",
-                  "tenta brella",
-                  ".96 gal"
-                ],
-                "carriers": [
-                  "-25",
-                  "Patrick",
-                  "Stic"
-                ]
               }
             ]
           }
@@ -26795,9 +26795,9 @@
           1738,
           1717,
           1704,
-          1695,
-          1687,
-          1679,
+          1697,
+          1689,
+          1681,
           1674,
           1668
         ]
@@ -26806,79 +26806,79 @@
     "bosses": [
       {
         "name": "Maws",
-        "total": 6137,
+        "total": 6317,
         "avg": 2.35,
-        "killPct": 32.9,
+        "killPct": 32.8,
         "icon": "Maws"
       },
       {
         "name": "Flipper-Flopper",
-        "total": 5012,
+        "total": 5162,
         "avg": 1.92,
-        "killPct": 26.7,
+        "killPct": 26.8,
         "icon": "Flipper-Flopper"
       },
       {
         "name": "Scrapper",
-        "total": 4729,
-        "avg": 1.81,
-        "killPct": 25.1,
+        "total": 4870,
+        "avg": 1.82,
+        "killPct": 25.2,
         "icon": "Scrapper"
       },
       {
         "name": "Slammin' Lid",
-        "total": 4483,
-        "avg": 1.72,
-        "killPct": 24.1,
+        "total": 4599,
+        "avg": 1.71,
+        "killPct": 24,
         "icon": "Slammin-Lid"
       },
       {
         "name": "Drizzler",
-        "total": 4254,
-        "avg": 1.63,
+        "total": 4396,
+        "avg": 1.64,
         "killPct": 23.3,
         "icon": "Drizzler"
       },
       {
-        "name": "Steelhead",
-        "total": 4171,
-        "avg": 1.6,
-        "killPct": 22.3,
-        "icon": "Steelhead"
-      },
-      {
         "name": "Fish Stick",
-        "total": 4150,
-        "avg": 1.59,
+        "total": 4286,
+        "avg": 1.6,
         "killPct": 26.9,
         "icon": "Fish-Stick"
       },
       {
+        "name": "Steelhead",
+        "total": 4275,
+        "avg": 1.59,
+        "killPct": 22.1,
+        "icon": "Steelhead"
+      },
+      {
         "name": "Stinger",
-        "total": 3810,
-        "avg": 1.46,
-        "killPct": 20.1,
+        "total": 3944,
+        "avg": 1.47,
+        "killPct": 20.2,
         "icon": "Stinger"
       },
       {
         "name": "Flyfish",
-        "total": 3606,
-        "avg": 1.38,
-        "killPct": 19.1,
+        "total": 3694,
+        "avg": 1.37,
+        "killPct": 19,
         "icon": "Flyfish"
       },
       {
         "name": "Steel Eel",
-        "total": 3473,
+        "total": 3569,
         "avg": 1.33,
         "killPct": 18.4,
         "icon": "Steel-Eel"
       },
       {
         "name": "Big Shot",
-        "total": 1412,
-        "avg": 0.78,
-        "killPct": 19.9,
+        "total": 1476,
+        "avg": 0.79,
+        "killPct": 20,
         "icon": "Big-Shot"
       }
     ],
@@ -28247,7 +28247,7 @@
             "screenshots": {
               "low": "/screenshots/imported/imported-b2f109e7-c2e5-41c1-b64a-65296428afcf.webp",
               "normal": "/screenshots/imported/imported-ed89f5bf-0a43-4d61-be2c-0dda7c783495.webp",
-              "high": "/screenshots/manual/SSy-mothership-HT-2026-03-19.png"
+              "high": "/screenshots/shiftdetail/SSy-mothership-HT-2026-03-19.webp"
             },
             "carriers": {
               "low": [
@@ -28306,25 +28306,25 @@
         "stage": "Sockeye Station",
         "low": [
           87,
-          60.7,
-          470
+          60.8,
+          479
         ],
         "normal": [
           84,
-          55.9,
-          1480
+          56,
+          1519
         ],
         "high": [
           92,
-          66.6,
-          490
+          66.8,
+          504
         ],
         "events": {
           "Day": {
             "low": [
               87,
-              60.7,
-              470
+              60.8,
+              479
             ],
             "screenshots": {
               "low": "/screenshots/nsa/nsa-b4a89464-afba-4161-b21d-208df53ba105.webp",
@@ -28350,13 +28350,13 @@
             },
             "normal": [
               84,
-              55.9,
-              1480
+              56,
+              1519
             ],
             "high": [
               92,
-              66.6,
-              490
+              66.8,
+              504
             ]
           },
           "Fog": {
@@ -28389,13 +28389,13 @@
             },
             "normal": [
               89,
-              62.6,
-              56
+              63,
+              59
             ],
             "high": [
               104,
-              79.9,
-              17
+              80.1,
+              18
             ]
           },
           "Seeking": {
@@ -28423,7 +28423,7 @@
             "high": [
               88,
               70.7,
-              29
+              30
             ]
           },
           "Mudmouth": {
@@ -28457,8 +28457,8 @@
           "Cannon": {
             "low": [
               86,
-              60.6,
-              104
+              60.9,
+              107
             ],
             "screenshots": {
               "low": "/screenshots/nsa/nsa-62de1dc7-4090-47a2-8a8b-149928429987.webp"
@@ -28474,8 +28474,8 @@
           "Griller": {
             "normal": [
               65,
-              51.8,
-              65
+              52,
+              66
             ],
             "screenshots": {
               "normal": "/screenshots/nsa/nsa-21373e98-90fc-4bb7-8744-febc58455d41.webp",
@@ -28496,14 +28496,14 @@
             "high": [
               85,
               62.9,
-              24
+              25
             ]
           },
           "Rush": {
             "normal": [
               62,
-              40.8,
-              66
+              40.9,
+              67
             ],
             "screenshots": {
               "normal": "/screenshots/nsa/nsa-190f5d0e-6b8b-464c-b21b-68ad0032f7f4.webp",
@@ -28523,8 +28523,8 @@
             },
             "high": [
               80,
-              64.1,
-              22
+              64.5,
+              23
             ]
           },
           "Mothership": {
@@ -28557,29 +28557,29 @@
             },
             "normal": [
               79,
-              63.4,
-              61
+              63.7,
+              63
             ],
             "high": [
               95,
-              81.6,
-              18
+              82.3,
+              20
             ]
           },
           "Tornado": {
             "low": [
-              70,
-              52.5,
-              95
+              72,
+              53,
+              98
             ],
             "screenshots": {
-              "low": "/screenshots/nsa/nsa-0f139cf1-cc3d-49e9-9271-5ac3417ae62e.webp"
+              "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDE4NTBfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp"
             },
             "carriers": {
               "low": [
-                "rara",
-                "Pangas",
-                "2★fat_free"
+                "-25",
+                "Stic",
+                "Crimson"
               ]
             }
           }
@@ -28589,25 +28589,25 @@
         "stage": "Marooner's Bay",
         "low": [
           86,
-          61.6,
-          368
+          61.7,
+          389
         ],
         "normal": [
           81,
           52.5,
-          1069
+          1143
         ],
         "high": [
           91,
-          53.9,
-          349
+          54,
+          368
         ],
         "events": {
           "Day": {
             "low": [
               86,
-              61.6,
-              368
+              61.7,
+              389
             ],
             "screenshots": {
               "low": "/screenshots/imported/imported-134696a2-6087-431d-9ed8-f002d0f525ba.webp",
@@ -28634,12 +28634,12 @@
             "normal": [
               81,
               52.5,
-              1069
+              1143
             ],
             "high": [
               91,
-              53.9,
-              349
+              54,
+              368
             ]
           },
           "Fog": {
@@ -28651,7 +28651,7 @@
             "screenshots": {
               "low": "/screenshots/imported/imported-8ae2a2f9-468b-4421-ad8a-09d3969e330f.webp",
               "normal": "/screenshots/imported/imported-cde7bf84-49b6-4c64-b7ec-c05ac88bc10d.webp",
-              "high": "/screenshots/nsa/nsa-a50a69c6-18b7-45d4-9feb-46ec99adbfa0.webp"
+              "high": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp"
             },
             "carriers": {
               "low": [
@@ -28665,27 +28665,27 @@
                 "Ricarnaldo"
               ],
               "high": [
-                "Aki",
-                "νοη",
-                "aoi"
+                "Crimson",
+                "Stic",
+                "Sadface"
               ]
             },
             "normal": [
               84,
-              62,
-              36
+              61.8,
+              37
             ],
             "high": [
-              89,
-              61.9,
-              17
+              94,
+              64.6,
+              20
             ]
           },
           "Seeking": {
             "normal": [
               90,
-              64.1,
-              55
+              64.7,
+              59
             ],
             "screenshots": {
               "normal": "/screenshots/nsa/nsa-c150c9ff-2881-4419-94b0-10b25faa8a53.webp",
@@ -28705,18 +28705,19 @@
             },
             "high": [
               90,
-              68.2,
-              21
+              68.4,
+              22
             ]
           },
           "Mudmouth": {
             "normal": [
               79,
-              58.8,
-              65
+              58.6,
+              67
             ],
             "screenshots": {
-              "normal": "/screenshots/nsa/nsa-aa4b4b1f-06d4-4d3a-98e7-22f4b4039755.webp"
+              "normal": "/screenshots/nsa/nsa-aa4b4b1f-06d4-4d3a-98e7-22f4b4039755.webp",
+              "high": "/screenshots/shiftdetail/scr-f2fab28a-ecb8-437c-acef-014aeac16406.webp"
             },
             "carriers": {
               "normal": [
@@ -28739,8 +28740,8 @@
           "Cannon": {
             "low": [
               80,
-              63.1,
-              80
+              63.2,
+              83
             ],
             "screenshots": {
               "low": "/screenshots/nsa/nsa-50b15f1d-b8d9-43ab-8045-1a4794b2eac8.webp"
@@ -28756,8 +28757,8 @@
           "Griller": {
             "normal": [
               64,
-              48.3,
-              47
+              48.7,
+              50
             ],
             "screenshots": {
               "normal": "/screenshots/imported/imported-1a37d4c0-b70e-42e5-9f03-e6a2c9dcb278.webp",
@@ -28777,43 +28778,43 @@
             },
             "high": [
               70,
-              55.7,
-              16
+              54.1,
+              20
             ]
           },
           "Rush": {
             "normal": [
-              47,
-              29.7,
-              38
+              51,
+              30.7,
+              41
             ],
             "screenshots": {
-              "normal": "/screenshots/nsa/nsa-65d3ddb4-c6c9-4708-b236-409e59f4c2c4.webp",
-              "high": "/screenshots/nsa/nsa-518d48a0-ed2c-4b83-84ec-4e13db4ccae4.webp"
+              "normal": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQyMDA5NDRfMDA2ODUxNGQtNWRhOC00YTQ1LTliMjgtYzEzMDFkZTA3OTQz.webp",
+              "high": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQyMDI0NTBfMGRiYmMwMmEtY2QwNC00YjQ4LWE1ZWUtNmY4NTRlMTkzM2Q4.webp"
             },
             "carriers": {
               "normal": [
-                "Aki",
-                "νοη",
-                "aoi"
+                "Stic",
+                "Crimson",
+                "eatham"
               ],
               "high": [
-                "Dogysamich",
-                "mmff",
-                "Stic"
+                "Crimson",
+                "Stic",
+                "eatham"
               ]
             },
             "high": [
-              61,
-              38.8,
-              20
+              62,
+              40.8,
+              22
             ]
           },
           "Mothership": {
             "low": [
               91,
-              74.9,
-              15
+              73.1,
+              16
             ],
             "screenshots": {
               "low": "/screenshots/nsa/nsa-6ab59b53-34f7-4b76-bc27-7b35c0a29883.webp",
@@ -28839,8 +28840,8 @@
             },
             "normal": [
               69,
-              49.8,
-              41
+              49.9,
+              43
             ],
             "high": [
               88,
@@ -28852,16 +28853,16 @@
             "low": [
               92,
               71.4,
-              92
+              100
             ],
             "screenshots": {
-              "low": "/screenshots/nsa/nsa-335b29a6-af1b-4d36-9395-543ae4f8a559.webp"
+              "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQxNzM5NTJfN2IyYzIyOWUtNDliMS00ZGMwLThlOWQtODZmMjFhYmE3Yzg4.webp"
             },
             "carriers": {
               "low": [
-                "Patrick",
+                "Pangas",
                 "Kabi",
-                "Leanna/Chazy"
+                "bup"
               ]
             }
           }
@@ -30234,7 +30235,7 @@
               "screenshots": {
                 "low": "/screenshots/imported/imported-b2f109e7-c2e5-41c1-b64a-65296428afcf.webp",
                 "normal": "/screenshots/imported/imported-ed89f5bf-0a43-4d61-be2c-0dda7c783495.webp",
-                "high": "/screenshots/manual/SSy-mothership-HT-2026-03-19.png"
+                "high": "/screenshots/shiftdetail/SSy-mothership-HT-2026-03-19.webp"
               },
               "carriers": {
                 "low": [
@@ -30293,25 +30294,25 @@
           "stage": "Sockeye Station",
           "low": [
             87,
-            60.7,
-            470
+            60.8,
+            479
           ],
           "normal": [
             84,
-            55.9,
-            1480
+            56,
+            1519
           ],
           "high": [
             92,
-            66.6,
-            490
+            66.8,
+            504
           ],
           "events": {
             "Day": {
               "low": [
                 87,
-                60.7,
-                470
+                60.8,
+                479
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-b4a89464-afba-4161-b21d-208df53ba105.webp",
@@ -30337,13 +30338,13 @@
               },
               "normal": [
                 84,
-                55.9,
-                1480
+                56,
+                1519
               ],
               "high": [
                 92,
-                66.6,
-                490
+                66.8,
+                504
               ]
             },
             "Fog": {
@@ -30376,13 +30377,13 @@
               },
               "normal": [
                 89,
-                62.6,
-                56
+                63,
+                59
               ],
               "high": [
                 104,
-                79.9,
-                17
+                80.1,
+                18
               ]
             },
             "Seeking": {
@@ -30410,7 +30411,7 @@
               "high": [
                 88,
                 70.7,
-                29
+                30
               ]
             },
             "Mudmouth": {
@@ -30444,8 +30445,8 @@
             "Cannon": {
               "low": [
                 86,
-                60.6,
-                104
+                60.9,
+                107
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-62de1dc7-4090-47a2-8a8b-149928429987.webp"
@@ -30461,8 +30462,8 @@
             "Griller": {
               "normal": [
                 65,
-                51.8,
-                65
+                52,
+                66
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-21373e98-90fc-4bb7-8744-febc58455d41.webp",
@@ -30483,14 +30484,14 @@
               "high": [
                 85,
                 62.9,
-                24
+                25
               ]
             },
             "Rush": {
               "normal": [
                 62,
-                40.8,
-                66
+                40.9,
+                67
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-190f5d0e-6b8b-464c-b21b-68ad0032f7f4.webp",
@@ -30510,8 +30511,8 @@
               },
               "high": [
                 80,
-                64.1,
-                22
+                64.5,
+                23
               ]
             },
             "Mothership": {
@@ -30544,29 +30545,29 @@
               },
               "normal": [
                 79,
-                63.4,
-                61
+                63.7,
+                63
               ],
               "high": [
                 95,
-                81.6,
-                18
+                82.3,
+                20
               ]
             },
             "Tornado": {
               "low": [
-                70,
-                52.5,
-                95
+                72,
+                53,
+                98
               ],
               "screenshots": {
-                "low": "/screenshots/nsa/nsa-0f139cf1-cc3d-49e9-9271-5ac3417ae62e.webp"
+                "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDE4NTBfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp"
               },
               "carriers": {
                 "low": [
-                  "rara",
-                  "Pangas",
-                  "2★fat_free"
+                  "-25",
+                  "Stic",
+                  "Crimson"
                 ]
               }
             }
@@ -30576,25 +30577,25 @@
           "stage": "Marooner's Bay",
           "low": [
             86,
-            61.6,
-            368
+            61.7,
+            389
           ],
           "normal": [
             81,
             52.5,
-            1069
+            1143
           ],
           "high": [
             91,
-            53.9,
-            349
+            54,
+            368
           ],
           "events": {
             "Day": {
               "low": [
                 86,
-                61.6,
-                368
+                61.7,
+                389
               ],
               "screenshots": {
                 "low": "/screenshots/imported/imported-134696a2-6087-431d-9ed8-f002d0f525ba.webp",
@@ -30621,12 +30622,12 @@
               "normal": [
                 81,
                 52.5,
-                1069
+                1143
               ],
               "high": [
                 91,
-                53.9,
-                349
+                54,
+                368
               ]
             },
             "Fog": {
@@ -30638,7 +30639,7 @@
               "screenshots": {
                 "low": "/screenshots/imported/imported-8ae2a2f9-468b-4421-ad8a-09d3969e330f.webp",
                 "normal": "/screenshots/imported/imported-cde7bf84-49b6-4c64-b7ec-c05ac88bc10d.webp",
-                "high": "/screenshots/nsa/nsa-a50a69c6-18b7-45d4-9feb-46ec99adbfa0.webp"
+                "high": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp"
               },
               "carriers": {
                 "low": [
@@ -30652,27 +30653,27 @@
                   "Ricarnaldo"
                 ],
                 "high": [
-                  "Aki",
-                  "νοη",
-                  "aoi"
+                  "Crimson",
+                  "Stic",
+                  "Sadface"
                 ]
               },
               "normal": [
                 84,
-                62,
-                36
+                61.8,
+                37
               ],
               "high": [
-                89,
-                61.9,
-                17
+                94,
+                64.6,
+                20
               ]
             },
             "Seeking": {
               "normal": [
                 90,
-                64.1,
-                55
+                64.7,
+                59
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-c150c9ff-2881-4419-94b0-10b25faa8a53.webp",
@@ -30692,18 +30693,19 @@
               },
               "high": [
                 90,
-                68.2,
-                21
+                68.4,
+                22
               ]
             },
             "Mudmouth": {
               "normal": [
                 79,
-                58.8,
-                65
+                58.6,
+                67
               ],
               "screenshots": {
-                "normal": "/screenshots/nsa/nsa-aa4b4b1f-06d4-4d3a-98e7-22f4b4039755.webp"
+                "normal": "/screenshots/nsa/nsa-aa4b4b1f-06d4-4d3a-98e7-22f4b4039755.webp",
+                "high": "/screenshots/shiftdetail/scr-f2fab28a-ecb8-437c-acef-014aeac16406.webp"
               },
               "carriers": {
                 "normal": [
@@ -30726,8 +30728,8 @@
             "Cannon": {
               "low": [
                 80,
-                63.1,
-                80
+                63.2,
+                83
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-50b15f1d-b8d9-43ab-8045-1a4794b2eac8.webp"
@@ -30743,8 +30745,8 @@
             "Griller": {
               "normal": [
                 64,
-                48.3,
-                47
+                48.7,
+                50
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-1a37d4c0-b70e-42e5-9f03-e6a2c9dcb278.webp",
@@ -30764,43 +30766,43 @@
               },
               "high": [
                 70,
-                55.7,
-                16
+                54.1,
+                20
               ]
             },
             "Rush": {
               "normal": [
-                47,
-                29.7,
-                38
+                51,
+                30.7,
+                41
               ],
               "screenshots": {
-                "normal": "/screenshots/nsa/nsa-65d3ddb4-c6c9-4708-b236-409e59f4c2c4.webp",
-                "high": "/screenshots/nsa/nsa-518d48a0-ed2c-4b83-84ec-4e13db4ccae4.webp"
+                "normal": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQyMDA5NDRfMDA2ODUxNGQtNWRhOC00YTQ1LTliMjgtYzEzMDFkZTA3OTQz.webp",
+                "high": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQyMDI0NTBfMGRiYmMwMmEtY2QwNC00YjQ4LWE1ZWUtNmY4NTRlMTkzM2Q4.webp"
               },
               "carriers": {
                 "normal": [
-                  "Aki",
-                  "νοη",
-                  "aoi"
+                  "Stic",
+                  "Crimson",
+                  "eatham"
                 ],
                 "high": [
-                  "Dogysamich",
-                  "mmff",
-                  "Stic"
+                  "Crimson",
+                  "Stic",
+                  "eatham"
                 ]
               },
               "high": [
-                61,
-                38.8,
-                20
+                62,
+                40.8,
+                22
               ]
             },
             "Mothership": {
               "low": [
                 91,
-                74.9,
-                15
+                73.1,
+                16
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-6ab59b53-34f7-4b76-bc27-7b35c0a29883.webp",
@@ -30826,8 +30828,8 @@
               },
               "normal": [
                 69,
-                49.8,
-                41
+                49.9,
+                43
               ],
               "high": [
                 88,
@@ -30839,16 +30841,16 @@
               "low": [
                 92,
                 71.4,
-                92
+                100
               ],
               "screenshots": {
-                "low": "/screenshots/nsa/nsa-335b29a6-af1b-4d36-9395-543ae4f8a559.webp"
+                "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQxNzM5NTJfN2IyYzIyOWUtNDliMS00ZGMwLThlOWQtODZmMjFhYmE3Yzg4.webp"
               },
               "carriers": {
                 "low": [
-                  "Patrick",
+                  "Pangas",
                   "Kabi",
-                  "Leanna/Chazy"
+                  "bup"
                 ]
               }
             }
@@ -32220,7 +32222,7 @@
               "screenshots": {
                 "low": "/screenshots/imported/imported-b2f109e7-c2e5-41c1-b64a-65296428afcf.webp",
                 "normal": "/screenshots/nsa/nsa-6289c503-d4e9-4b91-9cfe-168cc5075d97.webp",
-                "high": "/screenshots/manual/SSy-mothership-HT-2026-03-19.png"
+                "high": "/screenshots/shiftdetail/SSy-mothership-HT-2026-03-19.webp"
               },
               "carriers": {
                 "low": [
@@ -32279,25 +32281,25 @@
           "stage": "Sockeye Station",
           "low": [
             87,
-            60.6,
-            485
+            60.7,
+            494
           ],
           "normal": [
             84,
-            55.8,
-            1537
+            56,
+            1576
           ],
           "high": [
             92,
-            66.7,
-            513
+            66.9,
+            527
           ],
           "events": {
             "Day": {
               "low": [
                 87,
-                60.6,
-                485
+                60.7,
+                494
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-b4a89464-afba-4161-b21d-208df53ba105.webp",
@@ -32323,13 +32325,13 @@
               },
               "normal": [
                 84,
-                55.8,
-                1537
+                56,
+                1576
               ],
               "high": [
                 92,
-                66.7,
-                513
+                66.9,
+                527
               ]
             },
             "Fog": {
@@ -32362,13 +32364,13 @@
               },
               "normal": [
                 89,
-                62.9,
-                58
+                63.3,
+                61
               ],
               "high": [
                 104,
-                79.9,
-                17
+                80.1,
+                18
               ]
             },
             "Seeking": {
@@ -32395,8 +32397,8 @@
               },
               "high": [
                 88,
-                71.8,
-                33
+                71.7,
+                34
               ]
             },
             "Mudmouth": {
@@ -32430,8 +32432,8 @@
             "Cannon": {
               "low": [
                 86,
-                60.7,
-                111
+                60.9,
+                114
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-62de1dc7-4090-47a2-8a8b-149928429987.webp"
@@ -32447,8 +32449,8 @@
             "Griller": {
               "normal": [
                 65,
-                52,
-                68
+                52.1,
+                69
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-21373e98-90fc-4bb7-8744-febc58455d41.webp",
@@ -32469,14 +32471,14 @@
               "high": [
                 94,
                 65,
-                26
+                27
               ]
             },
             "Rush": {
               "normal": [
                 62,
-                40.8,
-                66
+                40.9,
+                67
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-190f5d0e-6b8b-464c-b21b-68ad0032f7f4.webp",
@@ -32496,8 +32498,8 @@
               },
               "high": [
                 80,
-                64.3,
-                23
+                64.6,
+                24
               ]
             },
             "Mothership": {
@@ -32530,29 +32532,29 @@
               },
               "normal": [
                 79,
-                63.6,
-                62
+                63.9,
+                64
               ],
               "high": [
                 95,
-                81.6,
-                18
+                82.3,
+                20
               ]
             },
             "Tornado": {
               "low": [
-                70,
-                52.6,
-                97
+                72,
+                53.1,
+                100
               ],
               "screenshots": {
-                "low": "/screenshots/nsa/nsa-0f139cf1-cc3d-49e9-9271-5ac3417ae62e.webp"
+                "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDE4NTBfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp"
               },
               "carriers": {
                 "low": [
-                  "rara",
-                  "Pangas",
-                  "2★fat_free"
+                  "-25",
+                  "Stic",
+                  "Crimson"
                 ]
               }
             }
@@ -32562,25 +32564,25 @@
           "stage": "Marooner's Bay",
           "low": [
             86,
-            61.5,
-            453
+            61.7,
+            474
           ],
           "normal": [
             81,
             52.7,
-            1281
+            1355
           ],
           "high": [
             91,
-            53.9,
-            413
+            54,
+            432
           ],
           "events": {
             "Day": {
               "low": [
                 86,
-                61.5,
-                453
+                61.7,
+                474
               ],
               "screenshots": {
                 "low": "/screenshots/imported/imported-134696a2-6087-431d-9ed8-f002d0f525ba.webp",
@@ -32607,12 +32609,12 @@
               "normal": [
                 81,
                 52.7,
-                1281
+                1355
               ],
               "high": [
                 91,
-                53.9,
-                413
+                54,
+                432
               ]
             },
             "Fog": {
@@ -32624,7 +32626,7 @@
               "screenshots": {
                 "low": "/screenshots/imported/imported-0da6aac1-1cec-4abd-ab4d-58d683697d22.webp",
                 "normal": "/screenshots/imported/imported-cde7bf84-49b6-4c64-b7ec-c05ac88bc10d.webp",
-                "high": "/screenshots/nsa/nsa-a50a69c6-18b7-45d4-9feb-46ec99adbfa0.webp"
+                "high": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp"
               },
               "carriers": {
                 "low": [
@@ -32638,27 +32640,27 @@
                   "Ricarnaldo"
                 ],
                 "high": [
-                  "Aki",
-                  "νοη",
-                  "aoi"
+                  "Crimson",
+                  "Stic",
+                  "Sadface"
                 ]
               },
               "normal": [
                 84,
-                61.8,
-                45
+                61.7,
+                46
               ],
               "high": [
-                89,
-                62.2,
-                22
+                94,
+                64.3,
+                25
               ]
             },
             "Seeking": {
               "normal": [
                 90,
-                63,
-                67
+                63.6,
+                71
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-c150c9ff-2881-4419-94b0-10b25faa8a53.webp",
@@ -32678,15 +32680,15 @@
               },
               "high": [
                 90,
-                67.1,
-                24
+                67.3,
+                25
               ]
             },
             "Mudmouth": {
               "normal": [
                 79,
-                58.8,
-                72
+                58.6,
+                74
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-aa4b4b1f-06d4-4d3a-98e7-22f4b4039755.webp",
@@ -32713,8 +32715,8 @@
             "Cannon": {
               "low": [
                 84,
-                63.3,
-                98
+                63.4,
+                101
               ],
               "screenshots": {
                 "low": "/screenshots/imported/imported-fd42b7b9-c46e-43cd-8b85-1775c27019aa.webp"
@@ -32730,8 +32732,8 @@
             "Griller": {
               "normal": [
                 65,
-                49.4,
-                63
+                49.7,
+                66
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-a3d26405-b419-4185-bb05-c2e705258c6d.webp",
@@ -32751,25 +32753,25 @@
               },
               "high": [
                 76,
-                57.6,
-                20
+                55.9,
+                24
               ]
             },
             "Rush": {
               "normal": [
-                49,
-                30.8,
-                54
+                51,
+                31.5,
+                57
               ],
               "screenshots": {
-                "normal": "/screenshots/imported/imported-b8886dfb-85d5-43ce-a9dd-49e2e93640f0.webp",
+                "normal": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQyMDA5NDRfMDA2ODUxNGQtNWRhOC00YTQ1LTliMjgtYzEzMDFkZTA3OTQz.webp",
                 "high": "/screenshots/imported/imported-953ac52d-274a-46db-8a8f-16fa82ee3a8f.webp"
               },
               "carriers": {
                 "normal": [
-                  "Sadface",
+                  "Stic",
                   "Crimson",
-                  "Stic"
+                  "eatham"
                 ],
                 "high": [
                   "Leanna/Chazy",
@@ -32779,15 +32781,15 @@
               },
               "high": [
                 68,
-                41.9,
-                24
+                43.3,
+                26
               ]
             },
             "Mothership": {
               "low": [
                 91,
-                74.8,
-                19
+                73.4,
+                20
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-6ab59b53-34f7-4b76-bc27-7b35c0a29883.webp",
@@ -32813,8 +32815,8 @@
               },
               "normal": [
                 70,
-                50.2,
-                50
+                50.3,
+                52
               ],
               "high": [
                 88,
@@ -32826,16 +32828,16 @@
               "low": [
                 92,
                 71.5,
-                106
+                114
               ],
               "screenshots": {
-                "low": "/screenshots/nsa/nsa-335b29a6-af1b-4d36-9395-543ae4f8a559.webp"
+                "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQxNzM5NTJfN2IyYzIyOWUtNDliMS00ZGMwLThlOWQtODZmMjFhYmE3Yzg4.webp"
               },
               "carriers": {
                 "low": [
-                  "Patrick",
+                  "Pangas",
                   "Kabi",
-                  "Leanna/Chazy"
+                  "bup"
                 ]
               }
             }
@@ -34207,7 +34209,7 @@
               "screenshots": {
                 "low": "/screenshots/imported/imported-b2f109e7-c2e5-41c1-b64a-65296428afcf.webp",
                 "normal": "/screenshots/nsa/nsa-6289c503-d4e9-4b91-9cfe-168cc5075d97.webp",
-                "high": "/screenshots/manual/SSy-mothership-HT-2026-03-19.png"
+                "high": "/screenshots/shiftdetail/SSy-mothership-HT-2026-03-19.webp"
               },
               "carriers": {
                 "low": [
@@ -34267,24 +34269,24 @@
           "low": [
             87,
             60.4,
-            542
+            551
           ],
           "normal": [
             88,
-            55.9,
-            1682
+            56,
+            1721
           ],
           "high": [
             92,
-            66.1,
-            562
+            66.3,
+            576
           ],
           "events": {
             "Day": {
               "low": [
                 87,
                 60.4,
-                542
+                551
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-7d01835b-b2e6-4e88-aefe-310849c124ca.webp",
@@ -34310,13 +34312,13 @@
               },
               "normal": [
                 88,
-                55.9,
-                1682
+                56,
+                1721
               ],
               "high": [
                 92,
-                66.1,
-                562
+                66.3,
+                576
               ]
             },
             "Fog": {
@@ -34349,13 +34351,13 @@
               },
               "normal": [
                 99,
-                62.5,
-                70
+                62.8,
+                73
               ],
               "high": [
                 104,
-                77.9,
-                19
+                78.2,
+                20
               ]
             },
             "Seeking": {
@@ -34382,8 +34384,8 @@
               },
               "high": [
                 103,
-                73.6,
-                36
+                73.5,
+                37
               ]
             },
             "Mudmouth": {
@@ -34417,8 +34419,8 @@
             "Cannon": {
               "low": [
                 86,
-                60.6,
-                123
+                60.8,
+                126
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-62de1dc7-4090-47a2-8a8b-149928429987.webp"
@@ -34434,8 +34436,8 @@
             "Griller": {
               "normal": [
                 71,
-                51.1,
-                75
+                51.2,
+                76
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-a587d708-1db6-40d3-a45c-8978035664f5.webp",
@@ -34455,15 +34457,15 @@
               },
               "high": [
                 94,
-                66.8,
-                28
+                66.7,
+                29
               ]
             },
             "Rush": {
               "normal": [
                 63,
-                40.3,
-                72
+                40.4,
+                73
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-385a8f5d-c48e-439f-93be-e36834e8b2a9.webp",
@@ -34483,8 +34485,8 @@
               },
               "high": [
                 80,
-                65.7,
-                27
+                66,
+                28
               ]
             },
             "Mothership": {
@@ -34517,20 +34519,20 @@
               },
               "normal": [
                 79,
-                63.1,
-                69
+                63.4,
+                71
               ],
               "high": [
                 95,
-                81.5,
-                21
+                82.1,
+                23
               ]
             },
             "Tornado": {
               "low": [
                 76,
-                52.8,
-                113
+                53.2,
+                116
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-2fe67d4a-88df-45c6-aaca-95881ff4a9c1.webp"
@@ -34549,25 +34551,25 @@
           "stage": "Marooner's Bay",
           "low": [
             86,
-            61.5,
-            453
+            61.7,
+            474
           ],
           "normal": [
             81,
             52.7,
-            1281
+            1355
           ],
           "high": [
             91,
-            53.9,
-            413
+            54,
+            432
           ],
           "events": {
             "Day": {
               "low": [
                 86,
-                61.5,
-                453
+                61.7,
+                474
               ],
               "screenshots": {
                 "low": "/screenshots/imported/imported-134696a2-6087-431d-9ed8-f002d0f525ba.webp",
@@ -34594,12 +34596,12 @@
               "normal": [
                 81,
                 52.7,
-                1281
+                1355
               ],
               "high": [
                 91,
-                53.9,
-                413
+                54,
+                432
               ]
             },
             "Fog": {
@@ -34611,7 +34613,7 @@
               "screenshots": {
                 "low": "/screenshots/imported/imported-0da6aac1-1cec-4abd-ab4d-58d683697d22.webp",
                 "normal": "/screenshots/imported/imported-cde7bf84-49b6-4c64-b7ec-c05ac88bc10d.webp",
-                "high": "/screenshots/nsa/nsa-a50a69c6-18b7-45d4-9feb-46ec99adbfa0.webp"
+                "high": "/screenshots/nsa/nsa-15a08c6e-7f39-4804-b13e-3ef08a4b101a.webp"
               },
               "carriers": {
                 "low": [
@@ -34625,27 +34627,27 @@
                   "Ricarnaldo"
                 ],
                 "high": [
-                  "Aki",
-                  "νοη",
-                  "aoi"
+                  "Crimson",
+                  "Stic",
+                  "Sadface"
                 ]
               },
               "normal": [
                 84,
-                61.8,
-                45
+                61.7,
+                46
               ],
               "high": [
-                89,
-                62.2,
-                22
+                94,
+                64.3,
+                25
               ]
             },
             "Seeking": {
               "normal": [
                 90,
-                63,
-                67
+                63.6,
+                71
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-c150c9ff-2881-4419-94b0-10b25faa8a53.webp",
@@ -34665,15 +34667,15 @@
               },
               "high": [
                 90,
-                67.1,
-                24
+                67.3,
+                25
               ]
             },
             "Mudmouth": {
               "normal": [
                 79,
-                58.8,
-                72
+                58.6,
+                74
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-aa4b4b1f-06d4-4d3a-98e7-22f4b4039755.webp",
@@ -34700,8 +34702,8 @@
             "Cannon": {
               "low": [
                 84,
-                63.3,
-                98
+                63.4,
+                101
               ],
               "screenshots": {
                 "low": "/screenshots/imported/imported-fd42b7b9-c46e-43cd-8b85-1775c27019aa.webp"
@@ -34717,8 +34719,8 @@
             "Griller": {
               "normal": [
                 65,
-                49.4,
-                63
+                49.7,
+                66
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-a3d26405-b419-4185-bb05-c2e705258c6d.webp",
@@ -34738,25 +34740,25 @@
               },
               "high": [
                 76,
-                57.6,
-                20
+                55.9,
+                24
               ]
             },
             "Rush": {
               "normal": [
-                49,
-                30.8,
-                54
+                51,
+                31.5,
+                57
               ],
               "screenshots": {
-                "normal": "/screenshots/imported/imported-b8886dfb-85d5-43ce-a9dd-49e2e93640f0.webp",
+                "normal": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQyMDA5NDRfMDA2ODUxNGQtNWRhOC00YTQ1LTliMjgtYzEzMDFkZTA3OTQz.webp",
                 "high": "/screenshots/imported/imported-953ac52d-274a-46db-8a8f-16fa82ee3a8f.webp"
               },
               "carriers": {
                 "normal": [
-                  "Sadface",
+                  "Stic",
                   "Crimson",
-                  "Stic"
+                  "eatham"
                 ],
                 "high": [
                   "Leanna/Chazy",
@@ -34766,15 +34768,15 @@
               },
               "high": [
                 68,
-                41.9,
-                24
+                43.3,
+                26
               ]
             },
             "Mothership": {
               "low": [
                 91,
-                74.8,
-                19
+                73.4,
+                20
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-6ab59b53-34f7-4b76-bc27-7b35c0a29883.webp",
@@ -34800,8 +34802,8 @@
               },
               "normal": [
                 70,
-                50.2,
-                50
+                50.3,
+                52
               ],
               "high": [
                 88,
@@ -34813,16 +34815,16 @@
               "low": [
                 92,
                 71.5,
-                106
+                114
               ],
               "screenshots": {
-                "low": "/screenshots/nsa/nsa-335b29a6-af1b-4d36-9395-543ae4f8a559.webp"
+                "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMFQxNzM5NTJfN2IyYzIyOWUtNDliMS00ZGMwLThlOWQtODZmMjFhYmE3Yzg4.webp"
               },
               "carriers": {
                 "low": [
-                  "Patrick",
+                  "Pangas",
                   "Kabi",
-                  "Leanna/Chazy"
+                  "bup"
                 ]
               }
             }
@@ -35475,5 +35477,5 @@
       "fit": "contain"
     }
   ],
-  "updatedAt": "2026.06.08"
+  "updatedAt": "2026.06.11"
 }
