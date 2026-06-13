@@ -17,8 +17,8 @@
   },
   "stats": {
     "perShift": {
-      "cleared": 8035,
-      "total": 8622,
+      "cleared": 8052,
+      "total": 8641,
       "tiles": [
         {
           "label": "Golden Egg Delivered",
@@ -32,7 +32,7 @@
         },
         {
           "label": "Power Eggs",
-          "value": 1111.8,
+          "value": 1111.9,
           "tone": "lime"
         },
         {
@@ -4120,16 +4120,16 @@
           "dayOnly": 497
         },
         {
+          "name": "Spawning Grounds",
+          "code": "SG",
+          "shifts": 1049,
+          "dayOnly": 477
+        },
+        {
           "name": "Marooner's Bay",
           "code": "MB",
           "shifts": 1032,
           "dayOnly": 431
-        },
-        {
-          "name": "Spawning Grounds",
-          "code": "SG",
-          "shifts": 1030,
-          "dayOnly": 470
         }
       ],
       "thresholds": [
@@ -4151,8 +4151,8 @@
           965,
           706,
           719,
-          383,
-          489
+          503,
+          383
         ],
         [
           866,
@@ -4160,8 +4160,8 @@
           774,
           500,
           516,
-          229,
-          331
+          336,
+          229
         ],
         [
           594,
@@ -4169,8 +4169,8 @@
           544,
           318,
           315,
-          118,
-          204
+          207,
+          118
         ],
         [
           351,
@@ -4178,8 +4178,8 @@
           310,
           163,
           162,
-          39,
-          105
+          106,
+          39
         ],
         [
           169,
@@ -4187,8 +4187,8 @@
           164,
           71,
           54,
-          13,
-          43
+          44,
+          13
         ],
         [
           91,
@@ -4196,8 +4196,8 @@
           64,
           32,
           23,
-          2,
-          12
+          12,
+          2
         ],
         [
           26,
@@ -4205,8 +4205,8 @@
           26,
           10,
           4,
-          1,
-          3
+          3,
+          1
         ],
         [
           5,
@@ -4243,8 +4243,8 @@
           354,
           239,
           318,
-          107,
-          199
+          203,
+          107
         ],
         [
           338,
@@ -4252,8 +4252,8 @@
           275,
           150,
           230,
-          56,
-          138
+          139,
+          56
         ],
         [
           213,
@@ -4261,8 +4261,8 @@
           169,
           85,
           142,
-          24,
-          88
+          88,
+          24
         ],
         [
           121,
@@ -4270,8 +4270,8 @@
           86,
           29,
           60,
-          5,
-          48
+          48,
+          5
         ],
         [
           56,
@@ -4279,8 +4279,8 @@
           45,
           8,
           17,
-          0,
-          18
+          18,
+          0
         ],
         [
           25,
@@ -4288,8 +4288,8 @@
           11,
           4,
           4,
-          0,
-          4
+          4,
+          0
         ],
         [
           10,
@@ -14301,7 +14301,7 @@
               234,
               234,
               233,
-              227,
+              229,
               227
             ],
             "shifts": [
@@ -14546,6 +14546,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-13T02:08:06.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxM1QwMjA4MDZfMzMxOWE4MjAtNzhlMi00YmRjLTlhMzEtZGU4MzAzMWFjOWEx.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "Mudmouth"
+                  }
+                ],
+                "weapons": [
+                  "Ballpoint Splatling",
+                  "Dualie Squelchers",
+                  "Blaster",
+                  "Wellstring V"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Kabi"
+                ]
+              },
+              {
                 "playedAt": "2026-03-26T21:45:21.000Z",
                 "screenshot": "/screenshots/nsa/nsa-bce432c1-c0fd-44c6-9324-caed6982d723.webp",
                 "note": null,
@@ -14573,36 +14603,6 @@
                   "Sadface",
                   "Crimson",
                   "Pangas"
-                ]
-              },
-              {
-                "playedAt": "2026-04-10T21:40:44.000Z",
-                "screenshot": "/screenshots/nsa/nsa-c112d15c-3092-4d84-b27c-af29922b64e7.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "Mudmouth"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "Fog"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "Recycled Brella 24 Mk I",
-                  "Splash-o-matic",
-                  "Tri-Slosher",
-                  "Rapid Blaster Pro"
-                ],
-                "carriers": [
-                  "Pangas",
-                  "Crimson",
-                  "Morgan"
                 ]
               }
             ]
@@ -15568,7 +15568,7 @@
           1664,
           1654,
           1653,
-          1641,
+          1643,
           1636
         ]
       },
@@ -16547,7 +16547,7 @@
               234,
               234,
               233,
-              227,
+              229,
               227
             ],
             "shifts": [
@@ -16792,6 +16792,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-13T02:08:06.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxM1QwMjA4MDZfMzMxOWE4MjAtNzhlMi00YmRjLTlhMzEtZGU4MzAzMWFjOWEx.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "Mudmouth"
+                  }
+                ],
+                "weapons": [
+                  "Ballpoint Splatling",
+                  "Dualie Squelchers",
+                  "Blaster",
+                  "Wellstring V"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Kabi"
+                ]
+              },
+              {
                 "playedAt": "2026-03-26T21:45:21.000Z",
                 "screenshot": "/screenshots/nsa/nsa-bce432c1-c0fd-44c6-9324-caed6982d723.webp",
                 "note": null,
@@ -16819,36 +16849,6 @@
                   "Sadface",
                   "Crimson",
                   "Pangas"
-                ]
-              },
-              {
-                "playedAt": "2026-04-10T21:40:44.000Z",
-                "screenshot": "/screenshots/nsa/nsa-c112d15c-3092-4d84-b27c-af29922b64e7.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "Mudmouth"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "Fog"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "Recycled Brella 24 Mk I",
-                  "Splash-o-matic",
-                  "Tri-Slosher",
-                  "Rapid Blaster Pro"
-                ],
-                "carriers": [
-                  "Pangas",
-                  "Crimson",
-                  "Morgan"
                 ]
               }
             ]
@@ -17814,7 +17814,7 @@
           1673,
           1664,
           1661,
-          1646,
+          1648,
           1643
         ]
       },
@@ -18793,7 +18793,7 @@
               234,
               234,
               233,
-              227,
+              229,
               227
             ],
             "shifts": [
@@ -19038,6 +19038,36 @@
                 ]
               },
               {
+                "playedAt": "2026-06-13T02:08:06.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxM1QwMjA4MDZfMzMxOWE4MjAtNzhlMi00YmRjLTlhMzEtZGU4MzAzMWFjOWEx.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "Mudmouth"
+                  }
+                ],
+                "weapons": [
+                  "Ballpoint Splatling",
+                  "Dualie Squelchers",
+                  "Blaster",
+                  "Wellstring V"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Kabi"
+                ]
+              },
+              {
                 "playedAt": "2026-03-26T21:45:21.000Z",
                 "screenshot": "/screenshots/nsa/nsa-bce432c1-c0fd-44c6-9324-caed6982d723.webp",
                 "note": null,
@@ -19065,36 +19095,6 @@
                   "Sadface",
                   "Crimson",
                   "Pangas"
-                ]
-              },
-              {
-                "playedAt": "2026-04-10T21:40:44.000Z",
-                "screenshot": "/screenshots/nsa/nsa-c112d15c-3092-4d84-b27c-af29922b64e7.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "Mudmouth"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "Fog"
-                  },
-                  {
-                    "wl": 0,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "Recycled Brella 24 Mk I",
-                  "Splash-o-matic",
-                  "Tri-Slosher",
-                  "Rapid Blaster Pro"
-                ],
-                "carriers": [
-                  "Pangas",
-                  "Crimson",
-                  "Morgan"
                 ]
               }
             ]
@@ -20060,7 +20060,7 @@
           1691,
           1682,
           1676,
-          1662,
+          1664,
           1660
         ]
       },
@@ -26806,83 +26806,83 @@
     "bosses": [
       {
         "name": "Maws",
-        "total": 6251,
+        "total": 6292,
         "avg": 2.45,
         "killPct": 32.9,
         "icon": "Maws"
       },
       {
         "name": "Flipper-Flopper",
-        "total": 5104,
+        "total": 5141,
         "avg": 2,
         "killPct": 26.9,
         "icon": "Flipper-Flopper"
       },
       {
         "name": "Scrapper",
-        "total": 4787,
+        "total": 4822,
         "avg": 1.88,
         "killPct": 25.2,
         "icon": "Scrapper"
       },
       {
         "name": "Slammin' Lid",
-        "total": 4511,
-        "avg": 1.77,
+        "total": 4539,
+        "avg": 1.76,
         "killPct": 24.1,
         "icon": "Slammin-Lid"
       },
       {
         "name": "Drizzler",
-        "total": 4318,
-        "avg": 1.69,
-        "killPct": 23.4,
+        "total": 4355,
+        "avg": 1.7,
+        "killPct": 23.5,
         "icon": "Drizzler"
       },
       {
         "name": "Fish Stick",
-        "total": 4186,
+        "total": 4206,
         "avg": 1.64,
-        "killPct": 26.9,
+        "killPct": 26.8,
         "icon": "Fish-Stick"
       },
       {
         "name": "Steelhead",
-        "total": 4179,
+        "total": 4201,
         "avg": 1.64,
         "killPct": 22,
         "icon": "Steelhead"
       },
       {
         "name": "Stinger",
-        "total": 3873,
+        "total": 3902,
         "avg": 1.52,
         "killPct": 20.3,
         "icon": "Stinger"
       },
       {
         "name": "Flyfish",
-        "total": 3602,
+        "total": 3619,
         "avg": 1.41,
         "killPct": 19,
         "icon": "Flyfish"
       },
       {
         "name": "Steel Eel",
-        "total": 3485,
-        "avg": 1.36,
-        "killPct": 18.3,
+        "total": 3520,
+        "avg": 1.37,
+        "killPct": 18.4,
         "icon": "Steel-Eel"
       },
       {
         "name": "Big Shot",
-        "total": 1429,
-        "avg": 0.79,
-        "killPct": 19.9,
+        "total": 1444,
+        "avg": 0.8,
+        "killPct": 20,
         "icon": "Big-Shot"
       }
     ],
-    "bossKillShiftCount": 2564,
+    "bossKillShiftCount": 2581,
     "waves": [
       {
         "stage": "Gone Fission Hydroplant",
@@ -27736,24 +27736,24 @@
         "low": [
           86,
           62.3,
-          431
+          436
         ],
         "normal": [
           82,
           55.2,
-          1323
+          1355
         ],
         "high": [
           89,
-          61.7,
-          458
+          61.8,
+          462
         ],
         "events": {
           "Day": {
             "low": [
               86,
               62.3,
-              431
+              436
             ],
             "screenshots": {
               "low": "/screenshots/nsa/nsa-6a12d520-0a88-4b4a-bae6-fb8c1d0c1323.webp",
@@ -27780,12 +27780,12 @@
             "normal": [
               82,
               55.2,
-              1323
+              1355
             ],
             "high": [
               89,
-              61.7,
-              458
+              61.8,
+              462
             ]
           },
           "Fog": {
@@ -27818,8 +27818,8 @@
             },
             "normal": [
               92,
-              67.1,
-              59
+              67.2,
+              61
             ],
             "high": [
               104,
@@ -27830,8 +27830,8 @@
           "Seeking": {
             "normal": [
               83,
-              57.9,
-              50
+              57.8,
+              51
             ],
             "screenshots": {
               "normal": "/screenshots/imported/imported-e375a973-5ad8-4755-b760-4eb2cc998415.webp",
@@ -27858,12 +27858,12 @@
           "Mudmouth": {
             "normal": [
               80,
-              58.4,
-              61
+              58.5,
+              62
             ],
             "screenshots": {
               "normal": "/screenshots/imported/imported-2c80e522-d412-4884-bc69-0e20834553f5.webp",
-              "high": "/screenshots/nsa/nsa-500ffadd-2faa-471c-9381-e6782bcf497f.webp"
+              "high": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxM1QwMjA4MDZfMzMxOWE4MjAtNzhlMi00YmRjLTlhMzEtZGU4MzAzMWFjOWEx.webp"
             },
             "carriers": {
               "normal": [
@@ -27872,22 +27872,22 @@
                 "Pangas"
               ],
               "high": [
-                "Link",
-                "Misty",
-                "Tammy"
+                "Crimson",
+                "Stic",
+                "Kabi"
               ]
             },
             "high": [
-              86,
-              68.5,
-              27
+              88,
+              69.2,
+              28
             ]
           },
           "Cannon": {
             "low": [
               83,
-              62.3,
-              74
+              62.5,
+              75
             ],
             "screenshots": {
               "low": "/screenshots/nsa/nsa-8ab6d3e2-25be-40fc-8f17-2faaa6c8e05d.webp"
@@ -27903,8 +27903,8 @@
           "Griller": {
             "normal": [
               70,
-              60.3,
-              66
+              60.4,
+              67
             ],
             "screenshots": {
               "normal": "/screenshots/imported/imported-f13bb010-97a4-42e7-a8ad-91090dfd1c1b.webp",
@@ -27931,8 +27931,8 @@
           "Rush": {
             "normal": [
               62,
-              41.8,
-              53
+              41.4,
+              55
             ],
             "screenshots": {
               "normal": "/screenshots/nsa/nsa-319289d5-03e7-4da4-b1f1-e03861e4f41f.webp",
@@ -27952,8 +27952,8 @@
             },
             "high": [
               77,
-              57.6,
-              22
+              58,
+              23
             ]
           },
           "Mothership": {
@@ -27986,8 +27986,8 @@
             },
             "normal": [
               78,
-              59.7,
-              48
+              60,
+              49
             ],
             "high": [
               101,
@@ -27998,8 +27998,8 @@
           "Tornado": {
             "low": [
               76,
-              59.7,
-              87
+              59.8,
+              89
             ],
             "screenshots": {
               "low": "/screenshots/imported/imported-2f8324c4-9067-4c3f-873b-ffc1419ffa0e.webp"
@@ -29724,24 +29724,24 @@
           "low": [
             86,
             62.3,
-            431
+            436
           ],
           "normal": [
             82,
             55.2,
-            1323
+            1355
           ],
           "high": [
             89,
-            61.7,
-            458
+            61.8,
+            462
           ],
           "events": {
             "Day": {
               "low": [
                 86,
                 62.3,
-                431
+                436
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-6a12d520-0a88-4b4a-bae6-fb8c1d0c1323.webp",
@@ -29768,12 +29768,12 @@
               "normal": [
                 82,
                 55.2,
-                1323
+                1355
               ],
               "high": [
                 89,
-                61.7,
-                458
+                61.8,
+                462
               ]
             },
             "Fog": {
@@ -29806,8 +29806,8 @@
               },
               "normal": [
                 92,
-                67.1,
-                59
+                67.2,
+                61
               ],
               "high": [
                 104,
@@ -29818,8 +29818,8 @@
             "Seeking": {
               "normal": [
                 83,
-                57.9,
-                50
+                57.8,
+                51
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-e375a973-5ad8-4755-b760-4eb2cc998415.webp",
@@ -29846,12 +29846,12 @@
             "Mudmouth": {
               "normal": [
                 80,
-                58.4,
-                61
+                58.5,
+                62
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-2c80e522-d412-4884-bc69-0e20834553f5.webp",
-                "high": "/screenshots/nsa/nsa-500ffadd-2faa-471c-9381-e6782bcf497f.webp"
+                "high": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxM1QwMjA4MDZfMzMxOWE4MjAtNzhlMi00YmRjLTlhMzEtZGU4MzAzMWFjOWEx.webp"
               },
               "carriers": {
                 "normal": [
@@ -29860,22 +29860,22 @@
                   "Pangas"
                 ],
                 "high": [
-                  "Link",
-                  "Misty",
-                  "Tammy"
+                  "Crimson",
+                  "Stic",
+                  "Kabi"
                 ]
               },
               "high": [
-                86,
-                68.5,
-                27
+                88,
+                69.2,
+                28
               ]
             },
             "Cannon": {
               "low": [
                 83,
-                62.3,
-                74
+                62.5,
+                75
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-8ab6d3e2-25be-40fc-8f17-2faaa6c8e05d.webp"
@@ -29891,8 +29891,8 @@
             "Griller": {
               "normal": [
                 70,
-                60.3,
-                66
+                60.4,
+                67
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-f13bb010-97a4-42e7-a8ad-91090dfd1c1b.webp",
@@ -29919,8 +29919,8 @@
             "Rush": {
               "normal": [
                 62,
-                41.8,
-                53
+                41.4,
+                55
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-319289d5-03e7-4da4-b1f1-e03861e4f41f.webp",
@@ -29940,8 +29940,8 @@
               },
               "high": [
                 77,
-                57.6,
-                22
+                58,
+                23
               ]
             },
             "Mothership": {
@@ -29974,8 +29974,8 @@
               },
               "normal": [
                 78,
-                59.7,
-                48
+                60,
+                49
               ],
               "high": [
                 101,
@@ -29986,8 +29986,8 @@
             "Tornado": {
               "low": [
                 76,
-                59.7,
-                87
+                59.8,
+                89
               ],
               "screenshots": {
                 "low": "/screenshots/imported/imported-2f8324c4-9067-4c3f-873b-ffc1419ffa0e.webp"
@@ -31711,24 +31711,24 @@
           "low": [
             86,
             62.6,
-            460
+            465
           ],
           "normal": [
             82,
-            55,
-            1403
+            55.1,
+            1435
           ],
           "high": [
             89,
-            61.3,
-            479
+            61.4,
+            483
           ],
           "events": {
             "Day": {
               "low": [
                 86,
                 62.6,
-                460
+                465
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-6a12d520-0a88-4b4a-bae6-fb8c1d0c1323.webp",
@@ -31754,13 +31754,13 @@
               },
               "normal": [
                 82,
-                55,
-                1403
+                55.1,
+                1435
               ],
               "high": [
                 89,
-                61.3,
-                479
+                61.4,
+                483
               ]
             },
             "Fog": {
@@ -31793,8 +31793,8 @@
               },
               "normal": [
                 92,
-                67.2,
-                61
+                67.3,
+                63
               ],
               "high": [
                 104,
@@ -31806,7 +31806,7 @@
               "normal": [
                 83,
                 57.3,
-                56
+                57
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-e375a973-5ad8-4755-b760-4eb2cc998415.webp",
@@ -31833,8 +31833,8 @@
             "Mudmouth": {
               "normal": [
                 80,
-                58.3,
-                63
+                58.4,
+                64
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-2c80e522-d412-4884-bc69-0e20834553f5.webp",
@@ -31854,15 +31854,15 @@
               },
               "high": [
                 95,
-                68.5,
-                27
+                69.2,
+                28
               ]
             },
             "Cannon": {
               "low": [
                 83,
-                62.1,
-                81
+                62.2,
+                82
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-8ab6d3e2-25be-40fc-8f17-2faaa6c8e05d.webp"
@@ -31878,8 +31878,8 @@
             "Griller": {
               "normal": [
                 70,
-                60.1,
-                68
+                60.3,
+                69
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-f13bb010-97a4-42e7-a8ad-91090dfd1c1b.webp",
@@ -31906,8 +31906,8 @@
             "Rush": {
               "normal": [
                 62,
-                42.3,
-                56
+                41.8,
+                58
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-319289d5-03e7-4da4-b1f1-e03861e4f41f.webp",
@@ -31927,8 +31927,8 @@
               },
               "high": [
                 77,
-                58,
-                23
+                58.3,
+                24
               ]
             },
             "Mothership": {
@@ -31961,8 +31961,8 @@
               },
               "normal": [
                 78,
-                59.4,
-                50
+                59.7,
+                51
               ],
               "high": [
                 101,
@@ -31973,8 +31973,8 @@
             "Tornado": {
               "low": [
                 76,
-                59.8,
-                90
+                59.9,
+                92
               ],
               "screenshots": {
                 "low": "/screenshots/imported/imported-2f8324c4-9067-4c3f-873b-ffc1419ffa0e.webp"
@@ -33698,24 +33698,24 @@
           "low": [
             86,
             62.6,
-            461
+            466
           ],
           "normal": [
             82,
             55,
-            1406
+            1438
           ],
           "high": [
             89,
-            61.3,
-            479
+            61.4,
+            483
           ],
           "events": {
             "Day": {
               "low": [
                 86,
                 62.6,
-                461
+                466
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-6a12d520-0a88-4b4a-bae6-fb8c1d0c1323.webp",
@@ -33742,12 +33742,12 @@
               "normal": [
                 82,
                 55,
-                1406
+                1438
               ],
               "high": [
                 89,
-                61.3,
-                479
+                61.4,
+                483
               ]
             },
             "Fog": {
@@ -33780,8 +33780,8 @@
               },
               "normal": [
                 92,
-                66.9,
-                62
+                67,
+                64
               ],
               "high": [
                 104,
@@ -33793,7 +33793,7 @@
               "normal": [
                 83,
                 57.3,
-                56
+                57
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-e375a973-5ad8-4755-b760-4eb2cc998415.webp",
@@ -33820,8 +33820,8 @@
             "Mudmouth": {
               "normal": [
                 80,
-                58.3,
-                63
+                58.4,
+                64
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-2c80e522-d412-4884-bc69-0e20834553f5.webp",
@@ -33841,15 +33841,15 @@
               },
               "high": [
                 95,
-                69.2,
-                28
+                69.9,
+                29
               ]
             },
             "Cannon": {
               "low": [
                 83,
-                62.1,
-                81
+                62.2,
+                82
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-8ab6d3e2-25be-40fc-8f17-2faaa6c8e05d.webp"
@@ -33865,8 +33865,8 @@
             "Griller": {
               "normal": [
                 70,
-                60.1,
-                68
+                60.3,
+                69
               ],
               "screenshots": {
                 "normal": "/screenshots/imported/imported-f13bb010-97a4-42e7-a8ad-91090dfd1c1b.webp",
@@ -33893,8 +33893,8 @@
             "Rush": {
               "normal": [
                 62,
-                42.3,
-                56
+                41.8,
+                58
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-319289d5-03e7-4da4-b1f1-e03861e4f41f.webp",
@@ -33914,8 +33914,8 @@
               },
               "high": [
                 77,
-                58,
-                23
+                58.3,
+                24
               ]
             },
             "Mothership": {
@@ -33948,8 +33948,8 @@
               },
               "normal": [
                 78,
-                59.4,
-                50
+                59.7,
+                51
               ],
               "high": [
                 101,
@@ -33960,8 +33960,8 @@
             "Tornado": {
               "low": [
                 76,
-                59.8,
-                90
+                59.9,
+                92
               ],
               "screenshots": {
                 "low": "/screenshots/imported/imported-2f8324c4-9067-4c3f-873b-ffc1419ffa0e.webp"
@@ -35478,5 +35478,5 @@
       "fit": "contain"
     }
   ],
-  "updatedAt": "2026.06.12"
+  "updatedAt": "2026.06.13"
 }
