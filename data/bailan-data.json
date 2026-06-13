@@ -17,8 +17,8 @@
   },
   "stats": {
     "perShift": {
-      "cleared": 8022,
-      "total": 8604,
+      "cleared": 8035,
+      "total": 8622,
       "tiles": [
         {
           "label": "Golden Egg Delivered",
@@ -32,7 +32,7 @@
         },
         {
           "label": "Power Eggs",
-          "value": 1111.7,
+          "value": 1111.8,
           "tone": "lime"
         },
         {
@@ -47,7 +47,7 @@
         },
         {
           "label": "Deaths",
-          "value": 1.2,
+          "value": 1.1,
           "tone": "cyan"
         }
       ]
@@ -57,7 +57,7 @@
         "rotation": "Regular",
         "time": "Day",
         "first": 1682,
-        "second": 1632,
+        "second": 1636,
         "firstScores": [
           268,
           244,
@@ -69,7 +69,7 @@
         ],
         "secondScores": [
           246,
-          227,
+          231,
           241,
           236,
           237,
@@ -320,10 +320,14 @@
             ]
           },
           {
-            "playedAt": "2026-05-19T00:22:54.000Z",
-            "screenshot": "/screenshots/nsa/nsa-ce042e09-e370-4a2c-8904-7c6671ed847f.webp",
+            "playedAt": "2026-06-12T15:31:55.000Z",
+            "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTMxNTVfYTMyYTQxNWMtNmQxNC00OTk3LTk3NWUtNGM5NDU0YWY2Mjlj.webp",
             "note": null,
             "waves": [
+              {
+                "wl": 0,
+                "ev": "-"
+              },
               {
                 "wl": 1,
                 "ev": "-"
@@ -331,21 +335,17 @@
               {
                 "wl": 2,
                 "ev": "-"
-              },
-              {
-                "wl": 0,
-                "ev": "-"
               }
             ],
             "weapons": [
-              "Dapple Dualies",
-              "Mint Decavitator",
-              "Big Swig Roller",
-              "Hydra Splatling"
+              "S-BLAST '92",
+              "Recycled Brella 24 Mk I",
+              "Dread Wringer",
+              "Tri-Stringer"
             ],
             "carriers": [
-              "Cris",
-              "Morgan",
+              "Stic",
+              "Pangas",
               "Crimson"
             ]
           },
@@ -505,7 +505,7 @@
         "rotation": "Non-Gold",
         "time": "Day",
         "first": 1689,
-        "second": 1636,
+        "second": 1640,
         "firstScores": [
           268,
           244,
@@ -517,7 +517,7 @@
         ],
         "secondScores": [
           248,
-          227,
+          231,
           243,
           236,
           237,
@@ -768,10 +768,14 @@
             ]
           },
           {
-            "playedAt": "2026-05-19T00:22:54.000Z",
-            "screenshot": "/screenshots/nsa/nsa-ce042e09-e370-4a2c-8904-7c6671ed847f.webp",
+            "playedAt": "2026-06-12T15:31:55.000Z",
+            "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTMxNTVfYTMyYTQxNWMtNmQxNC00OTk3LTk3NWUtNGM5NDU0YWY2Mjlj.webp",
             "note": null,
             "waves": [
+              {
+                "wl": 0,
+                "ev": "-"
+              },
               {
                 "wl": 1,
                 "ev": "-"
@@ -779,21 +783,17 @@
               {
                 "wl": 2,
                 "ev": "-"
-              },
-              {
-                "wl": 0,
-                "ev": "-"
               }
             ],
             "weapons": [
-              "Dapple Dualies",
-              "Mint Decavitator",
-              "Big Swig Roller",
-              "Hydra Splatling"
+              "S-BLAST '92",
+              "Recycled Brella 24 Mk I",
+              "Dread Wringer",
+              "Tri-Stringer"
             ],
             "carriers": [
-              "Cris",
-              "Morgan",
+              "Stic",
+              "Pangas",
               "Crimson"
             ]
           },
@@ -953,7 +953,7 @@
         "rotation": "All-Rotation",
         "time": "Day",
         "first": 1689,
-        "second": 1646,
+        "second": 1650,
         "firstScores": [
           268,
           244,
@@ -965,7 +965,7 @@
         ],
         "secondScores": [
           258,
-          227,
+          231,
           243,
           236,
           237,
@@ -1216,10 +1216,14 @@
             ]
           },
           {
-            "playedAt": "2026-05-19T00:22:54.000Z",
-            "screenshot": "/screenshots/nsa/nsa-ce042e09-e370-4a2c-8904-7c6671ed847f.webp",
+            "playedAt": "2026-06-12T15:31:55.000Z",
+            "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTMxNTVfYTMyYTQxNWMtNmQxNC00OTk3LTk3NWUtNGM5NDU0YWY2Mjlj.webp",
             "note": null,
             "waves": [
+              {
+                "wl": 0,
+                "ev": "-"
+              },
               {
                 "wl": 1,
                 "ev": "-"
@@ -1227,21 +1231,17 @@
               {
                 "wl": 2,
                 "ev": "-"
-              },
-              {
-                "wl": 0,
-                "ev": "-"
               }
             ],
             "weapons": [
-              "Dapple Dualies",
-              "Mint Decavitator",
-              "Big Swig Roller",
-              "Hydra Splatling"
+              "S-BLAST '92",
+              "Recycled Brella 24 Mk I",
+              "Dread Wringer",
+              "Tri-Stringer"
             ],
             "carriers": [
-              "Cris",
-              "Morgan",
+              "Stic",
+              "Pangas",
               "Crimson"
             ]
           },
@@ -4098,8 +4098,8 @@
         {
           "name": "Sockeye Station",
           "code": "SSt",
-          "shifts": 1359,
-          "dayOnly": 597
+          "shifts": 1377,
+          "dayOnly": 605
         },
         {
           "name": "Jammin' Salmon Junction",
@@ -4147,7 +4147,7 @@
       "counts": [
         [
           1094,
-          775,
+          788,
           965,
           706,
           719,
@@ -4156,7 +4156,7 @@
         ],
         [
           866,
-          567,
+          579,
           774,
           500,
           516,
@@ -4165,7 +4165,7 @@
         ],
         [
           594,
-          352,
+          361,
           544,
           318,
           315,
@@ -4174,7 +4174,7 @@
         ],
         [
           351,
-          188,
+          195,
           310,
           163,
           162,
@@ -4183,7 +4183,7 @@
         ],
         [
           169,
-          83,
+          87,
           164,
           71,
           54,
@@ -4192,7 +4192,7 @@
         ],
         [
           91,
-          28,
+          29,
           64,
           32,
           23,
@@ -4239,7 +4239,7 @@
       "countsDay": [
         [
           441,
-          311,
+          317,
           354,
           239,
           318,
@@ -4248,7 +4248,7 @@
         ],
         [
           338,
-          217,
+          223,
           275,
           150,
           230,
@@ -4257,7 +4257,7 @@
         ],
         [
           213,
-          117,
+          122,
           169,
           85,
           142,
@@ -4266,7 +4266,7 @@
         ],
         [
           121,
-          51,
+          55,
           86,
           29,
           60,
@@ -4275,7 +4275,7 @@
         ],
         [
           56,
-          13,
+          15,
           45,
           8,
           17,
@@ -4284,7 +4284,7 @@
         ],
         [
           25,
-          1,
+          2,
           11,
           4,
           4,
@@ -4664,15 +4664,15 @@
           "stage": "Sockeye Station",
           "scores": [
             244,
+            231,
+            229,
             227,
             226,
             225,
             225,
             224,
             223,
-            222,
-            222,
-            221
+            222
           ],
           "shifts": [
             {
@@ -4703,6 +4703,66 @@
                 "Crimson",
                 "Stic",
                 "Aki"
+              ]
+            },
+            {
+              "playedAt": "2026-06-12T15:31:55.000Z",
+              "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTMxNTVfYTMyYTQxNWMtNmQxNC00OTk3LTk3NWUtNGM5NDU0YWY2Mjlj.webp",
+              "note": null,
+              "waves": [
+                {
+                  "wl": 0,
+                  "ev": "-"
+                },
+                {
+                  "wl": 1,
+                  "ev": "-"
+                },
+                {
+                  "wl": 2,
+                  "ev": "-"
+                }
+              ],
+              "weapons": [
+                "S-BLAST '92",
+                "Recycled Brella 24 Mk I",
+                "Dread Wringer",
+                "Tri-Stringer"
+              ],
+              "carriers": [
+                "Stic",
+                "Pangas",
+                "Crimson"
+              ]
+            },
+            {
+              "playedAt": "2026-06-12T14:29:10.000Z",
+              "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNDI5MTBfNmU5NjIwNDMtNjNjYi00YTI3LTk0OTEtMTYwNmE3NGE4ZTZh.webp",
+              "note": null,
+              "waves": [
+                {
+                  "wl": 2,
+                  "ev": "-"
+                },
+                {
+                  "wl": 2,
+                  "ev": "-"
+                },
+                {
+                  "wl": 2,
+                  "ev": "-"
+                }
+              ],
+              "weapons": [
+                "S-BLAST '92",
+                "Recycled Brella 24 Mk I",
+                "Dread Wringer",
+                "Tri-Stringer"
+              ],
+              "carriers": [
+                "Crimson",
+                "Stic",
+                "Pangas"
               ]
             },
             {
@@ -4913,66 +4973,6 @@
                 "Pangas",
                 "Aki",
                 "Stic"
-              ]
-            },
-            {
-              "playedAt": "2025-10-06T03:26:00.000Z",
-              "screenshot": "/screenshots/imported/imported-95418bae-b77f-4725-aa01-058c49cf9bbc.webp",
-              "note": null,
-              "waves": [
-                {
-                  "wl": 2,
-                  "ev": "-"
-                },
-                {
-                  "wl": 1,
-                  "ev": "-"
-                },
-                {
-                  "wl": 1,
-                  "ev": "-"
-                }
-              ],
-              "weapons": [
-                "splat roller",
-                "splatana wiper",
-                "range blaster",
-                "tri-stringer"
-              ],
-              "carriers": [
-                "Kabi",
-                "Leanna/Chazy",
-                "Crimson"
-              ]
-            },
-            {
-              "playedAt": "2026-06-12T05:12:46.000Z",
-              "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQwNTEyNDZfZGM5ZGE2MDctYzZiNy00Yjk3LThiODQtZWEyNzdkMTU0MGZl.webp",
-              "note": null,
-              "waves": [
-                {
-                  "wl": 2,
-                  "ev": "-"
-                },
-                {
-                  "wl": 1,
-                  "ev": "-"
-                },
-                {
-                  "wl": 1,
-                  "ev": "-"
-                }
-              ],
-              "weapons": [
-                "S-BLAST '92",
-                "Recycled Brella 24 Mk I",
-                "Dread Wringer",
-                "Tri-Stringer"
-              ],
-              "carriers": [
-                "Stic",
-                "Aki",
-                "Crimson"
               ]
             }
           ]
@@ -6567,15 +6567,15 @@
       ],
       "totals": [
         1682,
-        1632,
-        1617,
-        1610,
-        1594,
-        1586,
-        1576,
-        1569,
-        1567,
-        1560
+        1636,
+        1620,
+        1612,
+        1595,
+        1587,
+        1578,
+        1571,
+        1568,
+        1561
       ]
     },
     "matrixByCombo": {
@@ -6914,15 +6914,15 @@
             "stage": "Sockeye Station",
             "scores": [
               244,
+              231,
+              229,
               227,
               226,
               225,
               225,
               224,
               223,
-              222,
-              222,
-              221
+              222
             ],
             "shifts": [
               {
@@ -6953,6 +6953,66 @@
                   "Crimson",
                   "Stic",
                   "Aki"
+                ]
+              },
+              {
+                "playedAt": "2026-06-12T15:31:55.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTMxNTVfYTMyYTQxNWMtNmQxNC00OTk3LTk3NWUtNGM5NDU0YWY2Mjlj.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Pangas",
+                  "Crimson"
+                ]
+              },
+              {
+                "playedAt": "2026-06-12T14:29:10.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNDI5MTBfNmU5NjIwNDMtNjNjYi00YTI3LTk0OTEtMTYwNmE3NGE4ZTZh.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Pangas"
                 ]
               },
               {
@@ -7163,66 +7223,6 @@
                   "Pangas",
                   "Aki",
                   "Stic"
-                ]
-              },
-              {
-                "playedAt": "2025-10-06T03:26:00.000Z",
-                "screenshot": "/screenshots/imported/imported-95418bae-b77f-4725-aa01-058c49cf9bbc.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splat roller",
-                  "splatana wiper",
-                  "range blaster",
-                  "tri-stringer"
-                ],
-                "carriers": [
-                  "Kabi",
-                  "Leanna/Chazy",
-                  "Crimson"
-                ]
-              },
-              {
-                "playedAt": "2026-06-12T05:12:46.000Z",
-                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQwNTEyNDZfZGM5ZGE2MDctYzZiNy00Yjk3LThiODQtZWEyNzdkMTU0MGZl.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "S-BLAST '92",
-                  "Recycled Brella 24 Mk I",
-                  "Dread Wringer",
-                  "Tri-Stringer"
-                ],
-                "carriers": [
-                  "Stic",
-                  "Aki",
-                  "Crimson"
                 ]
               }
             ]
@@ -8817,15 +8817,15 @@
         ],
         "totals": [
           1682,
-          1632,
-          1617,
-          1610,
-          1594,
-          1586,
-          1576,
-          1569,
-          1567,
-          1560
+          1636,
+          1620,
+          1612,
+          1595,
+          1587,
+          1578,
+          1571,
+          1568,
+          1561
         ]
       },
       "nonGoldDay": {
@@ -9163,15 +9163,15 @@
             "stage": "Sockeye Station",
             "scores": [
               244,
+              231,
+              229,
               227,
               226,
               225,
               225,
               224,
               223,
-              222,
-              222,
-              221
+              222
             ],
             "shifts": [
               {
@@ -9202,6 +9202,66 @@
                   "Crimson",
                   "Stic",
                   "Aki"
+                ]
+              },
+              {
+                "playedAt": "2026-06-12T15:31:55.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTMxNTVfYTMyYTQxNWMtNmQxNC00OTk3LTk3NWUtNGM5NDU0YWY2Mjlj.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Pangas",
+                  "Crimson"
+                ]
+              },
+              {
+                "playedAt": "2026-06-12T14:29:10.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNDI5MTBfNmU5NjIwNDMtNjNjYi00YTI3LTk0OTEtMTYwNmE3NGE4ZTZh.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Pangas"
                 ]
               },
               {
@@ -9412,66 +9472,6 @@
                   "Pangas",
                   "Aki",
                   "Stic"
-                ]
-              },
-              {
-                "playedAt": "2025-10-06T03:26:00.000Z",
-                "screenshot": "/screenshots/imported/imported-95418bae-b77f-4725-aa01-058c49cf9bbc.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splat roller",
-                  "splatana wiper",
-                  "range blaster",
-                  "tri-stringer"
-                ],
-                "carriers": [
-                  "Kabi",
-                  "Leanna/Chazy",
-                  "Crimson"
-                ]
-              },
-              {
-                "playedAt": "2026-06-12T05:12:46.000Z",
-                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQwNTEyNDZfZGM5ZGE2MDctYzZiNy00Yjk3LThiODQtZWEyNzdkMTU0MGZl.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "S-BLAST '92",
-                  "Recycled Brella 24 Mk I",
-                  "Dread Wringer",
-                  "Tri-Stringer"
-                ],
-                "carriers": [
-                  "Stic",
-                  "Aki",
-                  "Crimson"
                 ]
               }
             ]
@@ -11066,15 +11066,15 @@
         ],
         "totals": [
           1689,
-          1636,
-          1622,
-          1613,
-          1600,
-          1590,
-          1581,
-          1576,
-          1569,
-          1565
+          1640,
+          1625,
+          1615,
+          1601,
+          1591,
+          1583,
+          1578,
+          1570,
+          1566
         ]
       },
       "allDay": {
@@ -11412,15 +11412,15 @@
             "stage": "Sockeye Station",
             "scores": [
               244,
+              231,
+              229,
               227,
               226,
               225,
               225,
               224,
               223,
-              222,
-              222,
-              221
+              222
             ],
             "shifts": [
               {
@@ -11451,6 +11451,66 @@
                   "Crimson",
                   "Stic",
                   "Aki"
+                ]
+              },
+              {
+                "playedAt": "2026-06-12T15:31:55.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTMxNTVfYTMyYTQxNWMtNmQxNC00OTk3LTk3NWUtNGM5NDU0YWY2Mjlj.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 0,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 1,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Stic",
+                  "Pangas",
+                  "Crimson"
+                ]
+              },
+              {
+                "playedAt": "2026-06-12T14:29:10.000Z",
+                "screenshot": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNDI5MTBfNmU5NjIwNDMtNjNjYi00YTI3LTk0OTEtMTYwNmE3NGE4ZTZh.webp",
+                "note": null,
+                "waves": [
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  },
+                  {
+                    "wl": 2,
+                    "ev": "-"
+                  }
+                ],
+                "weapons": [
+                  "S-BLAST '92",
+                  "Recycled Brella 24 Mk I",
+                  "Dread Wringer",
+                  "Tri-Stringer"
+                ],
+                "carriers": [
+                  "Crimson",
+                  "Stic",
+                  "Pangas"
                 ]
               },
               {
@@ -11661,66 +11721,6 @@
                   "Pangas",
                   "Aki",
                   "Stic"
-                ]
-              },
-              {
-                "playedAt": "2025-10-06T03:26:00.000Z",
-                "screenshot": "/screenshots/imported/imported-95418bae-b77f-4725-aa01-058c49cf9bbc.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 2,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "splat roller",
-                  "splatana wiper",
-                  "range blaster",
-                  "tri-stringer"
-                ],
-                "carriers": [
-                  "Kabi",
-                  "Leanna/Chazy",
-                  "Crimson"
-                ]
-              },
-              {
-                "playedAt": "2026-05-31T15:08:32.000Z",
-                "screenshot": "/screenshots/nsa/nsa-463f1284-64ce-4ae8-a0af-f555b2ae2210.webp",
-                "note": null,
-                "waves": [
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  },
-                  {
-                    "wl": 1,
-                    "ev": "-"
-                  }
-                ],
-                "weapons": [
-                  "random_golden",
-                  "random_golden",
-                  "random_golden",
-                  "random_golden"
-                ],
-                "carriers": [
-                  "Kabi",
-                  "Leanna/Chazy",
-                  "Seat"
                 ]
               }
             ]
@@ -13315,15 +13315,15 @@
         ],
         "totals": [
           1689,
-          1646,
-          1624,
-          1616,
-          1603,
-          1593,
-          1583,
-          1579,
-          1571,
-          1567
+          1650,
+          1627,
+          1618,
+          1604,
+          1594,
+          1585,
+          1581,
+          1572,
+          1568
         ]
       },
       "regularNight": {
@@ -26806,83 +26806,83 @@
     "bosses": [
       {
         "name": "Maws",
-        "total": 6218,
+        "total": 6251,
         "avg": 2.45,
         "killPct": 32.9,
         "icon": "Maws"
       },
       {
         "name": "Flipper-Flopper",
-        "total": 5080,
+        "total": 5104,
         "avg": 2,
         "killPct": 26.9,
         "icon": "Flipper-Flopper"
       },
       {
         "name": "Scrapper",
-        "total": 4760,
+        "total": 4787,
         "avg": 1.88,
         "killPct": 25.2,
         "icon": "Scrapper"
       },
       {
         "name": "Slammin' Lid",
-        "total": 4493,
+        "total": 4511,
         "avg": 1.77,
         "killPct": 24.1,
         "icon": "Slammin-Lid"
       },
       {
         "name": "Drizzler",
-        "total": 4302,
+        "total": 4318,
         "avg": 1.69,
         "killPct": 23.4,
         "icon": "Drizzler"
       },
       {
         "name": "Fish Stick",
-        "total": 4159,
+        "total": 4186,
         "avg": 1.64,
-        "killPct": 26.8,
+        "killPct": 26.9,
         "icon": "Fish-Stick"
       },
       {
         "name": "Steelhead",
-        "total": 4159,
+        "total": 4179,
         "avg": 1.64,
-        "killPct": 22.1,
+        "killPct": 22,
         "icon": "Steelhead"
       },
       {
         "name": "Stinger",
-        "total": 3844,
-        "avg": 1.51,
+        "total": 3873,
+        "avg": 1.52,
         "killPct": 20.3,
         "icon": "Stinger"
       },
       {
         "name": "Flyfish",
-        "total": 3581,
+        "total": 3602,
         "avg": 1.41,
         "killPct": 19,
         "icon": "Flyfish"
       },
       {
         "name": "Steel Eel",
-        "total": 3467,
+        "total": 3485,
         "avg": 1.36,
         "killPct": 18.3,
         "icon": "Steel-Eel"
       },
       {
         "name": "Big Shot",
-        "total": 1427,
-        "avg": 0.8,
-        "killPct": 20,
+        "total": 1429,
+        "avg": 0.79,
+        "killPct": 19.9,
         "icon": "Big-Shot"
       }
     ],
-    "bossKillShiftCount": 2551,
+    "bossKillShiftCount": 2564,
     "waves": [
       {
         "stage": "Gone Fission Hydroplant",
@@ -27170,25 +27170,25 @@
         "stage": "Sockeye Station",
         "low": [
           87,
-          60.5,
-          496
+          60.6,
+          500
         ],
         "normal": [
           84,
           56,
-          1592
+          1612
         ],
         "high": [
           92,
-          67.2,
-          529
+          67.4,
+          541
         ],
         "events": {
           "Day": {
             "low": [
               87,
-              60.5,
-              496
+              60.6,
+              500
             ],
             "screenshots": {
               "low": "/screenshots/nsa/nsa-b4a89464-afba-4161-b21d-208df53ba105.webp",
@@ -27215,12 +27215,12 @@
             "normal": [
               84,
               56,
-              1592
+              1612
             ],
             "high": [
               92,
-              67.2,
-              529
+              67.4,
+              541
             ]
           },
           "Fog": {
@@ -27253,8 +27253,8 @@
             },
             "normal": [
               97,
-              63.9,
-              62
+              64.2,
+              63
             ],
             "high": [
               104,
@@ -27321,8 +27321,8 @@
           "Cannon": {
             "low": [
               86,
-              60.8,
-              109
+              60.7,
+              110
             ],
             "screenshots": {
               "low": "/screenshots/nsa/nsa-62de1dc7-4090-47a2-8a8b-149928429987.webp"
@@ -27338,36 +27338,36 @@
           "Griller": {
             "normal": [
               65,
-              50.6,
-              69
+              50.3,
+              73
             ],
             "screenshots": {
-              "normal": "/screenshots/nsa/nsa-21373e98-90fc-4bb7-8744-febc58455d41.webp",
-              "high": "/screenshots/imported/imported-08e76cae-7b13-48cd-8382-d1f126964cfe.webp"
+              "normal": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTEyMTZfNmE3ZjM5Y2UtMjM1MS00NzExLTk4Y2QtMTEyYTc2ZTJjYjk0.webp",
+              "high": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTM4NTBfYTMyYTQxNWMtNmQxNC00OTk3LTk3NWUtNGM5NDU0YWY2Mjlj.webp"
             },
             "carriers": {
               "normal": [
-                "Kabi",
+                "Crimson",
                 "Stic",
-                "Sadface"
+                "Pangas"
               ],
               "high": [
-                "Jujstme",
                 "Pangas",
-                "Aki"
+                "Crimson",
+                "Stic"
               ]
             },
             "high": [
-              85,
-              62.9,
-              25
+              90,
+              64,
+              26
             ]
           },
           "Rush": {
             "normal": [
               62,
-              40.3,
-              68
+              39.8,
+              69
             ],
             "screenshots": {
               "normal": "/screenshots/nsa/nsa-190f5d0e-6b8b-464c-b21b-68ad0032f7f4.webp",
@@ -27394,8 +27394,8 @@
           "Mothership": {
             "low": [
               80,
-              70.1,
-              25
+              70.2,
+              26
             ],
             "screenshots": {
               "low": "/screenshots/nsa/nsa-b873c513-9d5a-4d2a-8bad-f6ee89b823f0.webp",
@@ -27422,19 +27422,19 @@
             "normal": [
               79,
               63.8,
-              64
+              65
             ],
             "high": [
               95,
-              82.3,
-              20
+              82.1,
+              21
             ]
           },
           "Tornado": {
             "low": [
               72,
-              52.7,
-              101
+              52.2,
+              102
             ],
             "screenshots": {
               "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDE4NTBfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp"
@@ -29158,25 +29158,25 @@
           "stage": "Sockeye Station",
           "low": [
             87,
-            60.5,
-            496
+            60.6,
+            500
           ],
           "normal": [
             84,
             56,
-            1592
+            1612
           ],
           "high": [
             92,
-            67.2,
-            529
+            67.4,
+            541
           ],
           "events": {
             "Day": {
               "low": [
                 87,
-                60.5,
-                496
+                60.6,
+                500
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-b4a89464-afba-4161-b21d-208df53ba105.webp",
@@ -29203,12 +29203,12 @@
               "normal": [
                 84,
                 56,
-                1592
+                1612
               ],
               "high": [
                 92,
-                67.2,
-                529
+                67.4,
+                541
               ]
             },
             "Fog": {
@@ -29241,8 +29241,8 @@
               },
               "normal": [
                 97,
-                63.9,
-                62
+                64.2,
+                63
               ],
               "high": [
                 104,
@@ -29309,8 +29309,8 @@
             "Cannon": {
               "low": [
                 86,
-                60.8,
-                109
+                60.7,
+                110
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-62de1dc7-4090-47a2-8a8b-149928429987.webp"
@@ -29326,36 +29326,36 @@
             "Griller": {
               "normal": [
                 65,
-                50.6,
-                69
+                50.3,
+                73
               ],
               "screenshots": {
-                "normal": "/screenshots/nsa/nsa-21373e98-90fc-4bb7-8744-febc58455d41.webp",
-                "high": "/screenshots/imported/imported-08e76cae-7b13-48cd-8382-d1f126964cfe.webp"
+                "normal": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTEyMTZfNmE3ZjM5Y2UtMjM1MS00NzExLTk4Y2QtMTEyYTc2ZTJjYjk0.webp",
+                "high": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTM4NTBfYTMyYTQxNWMtNmQxNC00OTk3LTk3NWUtNGM5NDU0YWY2Mjlj.webp"
               },
               "carriers": {
                 "normal": [
-                  "Kabi",
+                  "Crimson",
                   "Stic",
-                  "Sadface"
+                  "Pangas"
                 ],
                 "high": [
-                  "Jujstme",
                   "Pangas",
-                  "Aki"
+                  "Crimson",
+                  "Stic"
                 ]
               },
               "high": [
-                85,
-                62.9,
-                25
+                90,
+                64,
+                26
               ]
             },
             "Rush": {
               "normal": [
                 62,
-                40.3,
-                68
+                39.8,
+                69
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-190f5d0e-6b8b-464c-b21b-68ad0032f7f4.webp",
@@ -29382,8 +29382,8 @@
             "Mothership": {
               "low": [
                 80,
-                70.1,
-                25
+                70.2,
+                26
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-b873c513-9d5a-4d2a-8bad-f6ee89b823f0.webp",
@@ -29410,19 +29410,19 @@
               "normal": [
                 79,
                 63.8,
-                64
+                65
               ],
               "high": [
                 95,
-                82.3,
-                20
+                82.1,
+                21
               ]
             },
             "Tornado": {
               "low": [
                 72,
-                52.7,
-                101
+                52.2,
+                102
               ],
               "screenshots": {
                 "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDE4NTBfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp"
@@ -31145,25 +31145,25 @@
           "stage": "Sockeye Station",
           "low": [
             87,
-            60.4,
-            511
+            60.5,
+            515
           ],
           "normal": [
             84,
             56,
-            1649
+            1669
           ],
           "high": [
             92,
-            67.2,
-            552
+            67.4,
+            564
           ],
           "events": {
             "Day": {
               "low": [
                 87,
-                60.4,
-                511
+                60.5,
+                515
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-b4a89464-afba-4161-b21d-208df53ba105.webp",
@@ -31190,12 +31190,12 @@
               "normal": [
                 84,
                 56,
-                1649
+                1669
               ],
               "high": [
                 92,
-                67.2,
-                552
+                67.4,
+                564
               ]
             },
             "Fog": {
@@ -31228,8 +31228,8 @@
               },
               "normal": [
                 97,
-                64.2,
-                64
+                64.4,
+                65
               ],
               "high": [
                 104,
@@ -31296,8 +31296,8 @@
             "Cannon": {
               "low": [
                 86,
-                60.9,
-                116
+                60.8,
+                117
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-62de1dc7-4090-47a2-8a8b-149928429987.webp"
@@ -31313,18 +31313,18 @@
             "Griller": {
               "normal": [
                 65,
-                50.8,
-                72
+                50.5,
+                76
               ],
               "screenshots": {
-                "normal": "/screenshots/nsa/nsa-21373e98-90fc-4bb7-8744-febc58455d41.webp",
+                "normal": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMlQxNTEyMTZfNmE3ZjM5Y2UtMjM1MS00NzExLTk4Y2QtMTEyYTc2ZTJjYjk0.webp",
                 "high": "/screenshots/imported/imported-d5a2a695-fe44-41f7-9a69-3f08e7fe2626.webp"
               },
               "carriers": {
                 "normal": [
-                  "Kabi",
+                  "Crimson",
                   "Stic",
-                  "Sadface"
+                  "Pangas"
                 ],
                 "high": [
                   "Patrick",
@@ -31334,15 +31334,15 @@
               },
               "high": [
                 94,
-                65,
-                27
+                65.9,
+                28
               ]
             },
             "Rush": {
               "normal": [
                 62,
-                40.3,
-                68
+                39.8,
+                69
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-190f5d0e-6b8b-464c-b21b-68ad0032f7f4.webp",
@@ -31369,8 +31369,8 @@
             "Mothership": {
               "low": [
                 80,
-                69.9,
-                26
+                70,
+                27
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-b873c513-9d5a-4d2a-8bad-f6ee89b823f0.webp",
@@ -31396,20 +31396,20 @@
               },
               "normal": [
                 79,
-                64.1,
-                65
+                64,
+                66
               ],
               "high": [
                 95,
-                82.3,
-                20
+                82.1,
+                21
               ]
             },
             "Tornado": {
               "low": [
                 72,
-                52.8,
-                103
+                52.3,
+                104
               ],
               "screenshots": {
                 "low": "/screenshots/nsa-auto/Q29vcEhpc3RvcnlEZXRhaWwtdS1xeWVmaWZ1Y2dhZ2p6M21ldHRwbToyMDI2MDYxMVQwNDE4NTBfOGU2NzJlMjktOWRmYS00YjI2LTk0OGQtZDRmOWRkZDNjMjNh.webp"
@@ -33132,25 +33132,25 @@
           "stage": "Sockeye Station",
           "low": [
             87,
-            60.2,
-            568
+            60.3,
+            572
           ],
           "normal": [
             88,
             56,
-            1794
+            1814
           ],
           "high": [
             92,
-            66.7,
-            601
+            66.8,
+            613
           ],
           "events": {
             "Day": {
               "low": [
                 87,
-                60.2,
-                568
+                60.3,
+                572
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-7d01835b-b2e6-4e88-aefe-310849c124ca.webp",
@@ -33177,12 +33177,12 @@
               "normal": [
                 88,
                 56,
-                1794
+                1814
               ],
               "high": [
                 92,
-                66.7,
-                601
+                66.8,
+                613
               ]
             },
             "Fog": {
@@ -33215,8 +33215,8 @@
               },
               "normal": [
                 99,
-                63.6,
-                76
+                63.8,
+                77
               ],
               "high": [
                 104,
@@ -33283,8 +33283,8 @@
             "Cannon": {
               "low": [
                 86,
-                60.8,
-                128
+                60.7,
+                129
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-62de1dc7-4090-47a2-8a8b-149928429987.webp"
@@ -33300,8 +33300,8 @@
             "Griller": {
               "normal": [
                 71,
-                50.1,
-                79
+                49.9,
+                83
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-a587d708-1db6-40d3-a45c-8978035664f5.webp",
@@ -33321,15 +33321,15 @@
               },
               "high": [
                 94,
-                66.7,
-                29
+                67.5,
+                30
               ]
             },
             "Rush": {
               "normal": [
                 63,
-                39.9,
-                74
+                39.3,
+                75
               ],
               "screenshots": {
                 "normal": "/screenshots/nsa/nsa-385a8f5d-c48e-439f-93be-e36834e8b2a9.webp",
@@ -33356,8 +33356,8 @@
             "Mothership": {
               "low": [
                 80,
-                69.9,
-                26
+                70,
+                27
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-b873c513-9d5a-4d2a-8bad-f6ee89b823f0.webp",
@@ -33383,20 +33383,20 @@
               },
               "normal": [
                 79,
-                63.5,
-                72
+                63.4,
+                73
               ],
               "high": [
                 95,
-                82.1,
-                23
+                81.9,
+                24
               ]
             },
             "Tornado": {
               "low": [
                 76,
-                53,
-                119
+                52.5,
+                120
               ],
               "screenshots": {
                 "low": "/screenshots/nsa/nsa-2fe67d4a-88df-45c6-aaca-95881ff4a9c1.webp"
